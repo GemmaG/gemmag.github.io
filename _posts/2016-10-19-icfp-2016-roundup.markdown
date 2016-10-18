@@ -49,8 +49,8 @@ You can access various resources online:
 OCaml Tutorial
 --------------
 
-<img src="/images/2048-iocaml-notepad.png" alt="IOCaml Notepad" width="200" />
-<img src="/images/olivier-ocaml-tutorial.jpg" alt="Mindy and Olivier at the OCaml Tutorial" width="200" />
+<img src="/images/2048-iocaml-notepad.png" alt="IOCaml Notepad" width="200" style="float:left" />
+<img src="/images/olivier-ocaml-tutorial.jpg" alt="Mindy and Olivier at the OCaml Tutorial" style="float:right" width="200" />
 
 Mindy ran this year's OCaml Tutorial, which started with a gentle
 introduction to OCaml mechanics, and ended with a fun task of writing a
