@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ICFP 2016: a roundup of OCaml Labs and other interesting talks
+title:  ICFP 2016 talks by OCaml Labs and other interesting related ones
 date:   2016-10-18 19:14:15 +0100
 categories: ocamllabs icfp conference ocaml
 ---
