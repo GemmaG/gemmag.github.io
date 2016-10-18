@@ -4,9 +4,6 @@ title: ICFP 2016 roundup by OCaml Labs
 categories: ocamllabs icfp conference ocaml
 ---
 
-ICFP 2016
----------
-
 [ICFP 2016](http://conf.researchr.org/home/icfp-2016) is over!
 
 The Nara Kasugano International Forum was an amazing venue - situated
