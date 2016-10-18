@@ -1,0 +1,350 @@
+ICFP 2016
+---------
+
+[ICFP 2016](http://conf.researchr.org/home/icfp-2016) is over!
+
+The Nara Kasugano International Forum was an amazing venue - situated
+beside incredible beauty, history and hundreds of deer on the doorstep!
+With \~600 attendees this was a huge event to coordinate, and the team
+of organisers and volunteers did a fantastic job. The world of
+functional programming was well represented in both an academic and
+industrial sense, with a huge number of commercial sponsors present to
+discuss their real-world applications of FP methods.
+
+Liveblogging
+------------
+
+We ran a [liveblog unikernel](http://icfp2016.mirage.io) to cover the
+event and despite some wifi issues, we have summaries for the 54 talks
+including:
+
+-   [9 talks](http://icfp2016.mirage.io/CUFP) from the [CUFP
+    conference](http://cufp.org/2016/)
+-   [14 talks](http://icfp2016.mirage.io/OCaml) from the [OCaml
+    workshop](http://ocaml.org/meetings/ocaml/2016/)
+-   [1 talk](http://icfp2016.mirage.io/HIW) from the [HIW
+    workshop](http://conf.researchr.org/track/icfp-2016/hiw-2016-papers#program)
+-   [16 talks](http://icfp2016.mirage.io/ICFP) from the [ICFP main
+    track](http://conf.researchr.org/track/icfp-2016/icfp-2016-papers)
+-   [7 talks](http://icfp2016.mirage.io/ML) from the [ML
+    workshop](http://www.mlworkshop.org/ml2016)
+-   [4 talks](http://icfp2016.mirage.io/PLMW) at the [PLMW
+    workshop](http://conf.researchr.org/track/icfp-2016/PLMW-ICFP-2016#program)
+-   [3 talks](http://icfp2016.mirage.io/TyDe) at the [TyDe
+    workshop](http://conf.researchr.org/track/icfp-2016/tyde-2016-papers)
+
+-- more --
+
+You can access various resources online:
+
+-   [videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw)
+    of the talks
+-   [tutorials](http://conf.researchr.org/track/icfp-2016/icfp-2016-Tutorials)
+-   [co-located workshops and
+    symposia](http://conf.researchr.org/track/icfp-2016/icfp-2016-workshops#About)
+
+OCaml Tutorial
+--------------
+
+![IOCaml
+Notepad](2048 IOCaml notepad.png "fig:IOCaml Notepad"){width="200"}
+![Mindy and Olivier at the OCaml
+Tutorial](Olivier OCaml Tutorial.jpg "fig:Mindy and Olivier at the OCaml Tutorial"){width="200"}
+
+Mindy ran this year's OCaml Tutorial, which started with a gentle
+introduction to OCaml mechanics, and ended with a fun task of writing a
+program to play the [2048](http://gabrielecirulli.github.io/2048/) game
+in a browser. We use [IOCaml
+notepad](https://github.com/andrewray/iocaml) (an OCaml kernel for the
+IPython notebook) written by Andy Wray to provide the resources needed,
+which was particularly helpful since we were lacking a reliable wifi
+connection. The tutorial was well attended, with 21 people, all with
+varying abilities and experience including some Haskell developers and
+one person with no prior programming experience at all. Mindy took
+everyone through the main steps and skills they would need to use to
+build the game, starting with variables, conditions and functions, then
+moving on to abstract data types and pattern matching. The resources are
+available
+[here](https://github.com/ocamllabs/2048-tutorial/blob/master/task.md),
+have a go at building the game yourself!
+
+OCaml Workshop
+--------------
+
+The [workshop](https://ocaml.org/meetings/ocaml/2016/) hosted 14
+OCaml-specific talks, with 3 posters and 7 presentations by people from
+the OCaml Labs team.
+
+### A Year in OCaml
+
+[Talk
+summary](https://github.com/ocamllabs/icfp2016-blog/blob/master/OCaml/invited-talk.md)
+
+Damien started the day off by talking us through the new features for
+the imminent [OCaml 4.04
+release](http://icfp2016.mirage.io/OCaml/invited-talk.md) and recapped
+the inclusion of [flambda](https://blogs.janestreet.com/flambda/),
+[ephemerons](http://caml.inria.fr/pub/docs/manual-ocaml/libref/Ephemeron.html)
+and other improvements in 4.03. The release of 4.03 was a painful and
+delayed process, and to avoid recurrence the goal for future releases is
+to work to a 6 month schedule with a feature freeze. 4.04 will be the
+first to use this process, with the next feature freeze planned for 1st
+Feb 2017 in preparation for an April 2017 release.
+
+### OPAM and the OCaml Platform
+
+[Talk
+summary](http://icfp2016.mirage.io/OCaml/the-state-of-the-ocaml-platfor.md)
+|
+[Abstract](http://www.ocamlpro.com/wp-content/uploads/2016/08/2016_OUD_gesbert_madhavapeddy.pdf)
+
+OPAM 2.0 is in development and Louis outlined the new features we can
+expect, including local switches, compiler-as-switch, package pinning
+and wrappers (and many more!) and looked ahead at plans for the next
+year. A main focus is to support a variety of workflows and Louis is
+asking for [feedback](https://github.com/ocaml/opam/wiki/opam-2.0-FAQ)
+on the preview release in order to define these clearly. After gathering
+feedback, adding sugar and documentation, the current plan is for a beta
+release in Dec, with a full release in January 2017. Windows support and
+repository signing are in the works, and if not added to 2.0 then soon
+after. Documentation is a huge part of the Platform, and Daniel's [odig
+library](https://github.com/dbuenzli/odig) allows you to mine installed
+OCaml packages by querying package distribution documentation, metadata
+and generates cross-referenced [API
+documentation](http://docs.mirage.io/). It's currently a best-effort
+solution while full docs support is added, but it is an OPAM-independent
+tool that allows OS managers to install their packages in a compliant
+manner.
+
+### Learn OCaml: An online learning centre for OCaml
+
+[Talk
+Summary](http://icfp2016.mirage.io/OCaml/learn-ocaml-an-online-learnin.md)
+|
+[Abstract](http://www.ocamlpro.com/wp-content/uploads/2016/08/ocaml-2016-learn-ocaml.pdf)
+
+OCamlPro presented "Learn OCaml" an online learning tool based on
+previous versions of "Try OCaml" and borrows heavily from the
+[MOOC](https://www.mooc-list.com/course/introduction-functional-programming-ocaml-fun)
+exercise environment. The tool adapts to different devices easily, and
+directly addresses feedback provided by MOOC users. The centre includes:
+
+**Toplevel**
+
+-   -   compilation via js\_of\_ocaml
+    -   highlighted errors and warnings
+    -   infinite loop protection
+
+**Tutorials** A new implementation of "Try OCaml" with:
+
+-   -   the most recent OCaml version and easy future upgrades
+    -   polished UI with responsive design and output highlighting
+
+**Exercises**
+
+-   -   local storage of information in the browser
+    -   enforced `ocp-indent` to help with learning formatting
+    -   a grading feature that shows progression and provides detailed
+        reports
+
+### Statistically profiling memory in OCaml
+
+[Talk
+Summary](http://icfp2016.mirage.io/OCaml/statistically-profiling-memory.md)
+
+This talk aimed to answer the plaguing question "Why does my program eat
+so much memory?" by suggesting the solution of only tracking a small,
+representative fraction of allocations. This results in a much lower
+overhead with:
+
+-   a tunable sampling rate
+-   relevant information even for low sampling rates
+-   the ability to attach much larger metadata
+
+The profiler benefits from the addition of ephemerons in 4.03, and could
+be a useful complement to the Spacetime memory profiler. The next steps
+include feedback from users, and a focus on UI.
+
+### Lock-free programming with Reagents
+
+[Talk
+Summary](http://icfp2016.mirage.io/OCaml/lockfree-programming-for-the-.md)
+| [Abstract](http://kcsrk.info/papers/reagents_ocaml16.pdf)
+
+Designing and implementing scalable concurrency libraries is very
+difficult, and current solutions can be rigid and difficult to maintain.
+The Reagents library was first proposed by Aaron Turon, and seeks to
+provide an expressive and composable library which retains the
+performance and scalability of lock-free programming. This
+implementation retains the benefits of fine-grained parallelism that
+multicore hardware provides, and offers a high-level DSL in OCaml.
+Reagents forms part of the larger OCaml Multicore project that KC and
+Stephen Dolan are currently working on at OCaml Labs.
+
+### Conex: Establishing trust into data repositories
+
+[Talk
+Summary](http://icfp2016.mirage.io/OCaml/conex--establishing-trust-in.md)
+|
+[Abstract](https://github.com/hannesm/conex-paper/raw/master/paper.pdf)
+
+The goal of the Conex library is to guarantee the integrity and
+authenticity of data repositories, and to ensure that the client is
+downloading a package intended for release by an author without risk of
+threat. This implementation seeks to be integrated into OPAM tooling,
+but is also intended for general repo-use.
+
+Current OPAM state provides:
+
+-   no trusted link between a repository and client. There is a TLS
+    connection, but no certification.
+-   MD5 checksum of remote archives, but MD5 is widely considered to be
+    weak
+-   complete access to a single janitor. This allows the possibility of
+    a backdoor implementation!
+
+Conex seeks to reduce the threat of malicious injection, and is based
+upon [TUF](https://theupdateframework.github.io/) started by the TOR
+team. This signing proposal is a simpler than the framework presented in
+2005, and seeks to be a sensible approach that is easily integrated into
+existing workflows. Authors and janitors generate private and public key
+pairs which are stored in the repository, each package has an
+authorisation file signed by a janitor and new releases are signed by
+the package owner, along with a checksum file. Clients are able to
+verify the signatures on updates, and janitors are able to fix packages
+if a quorum is decided. Conex will be included in the OPAM 2.0 release
+as an opt-in feature, and will allow signed and unsigned packages to
+co-exist.
+
+### OPAM-builder: Continuous monitoring of OPAM repositories
+
+[Talk
+Summary](http://icfp2016.mirage.io/OCaml/opambuilder-continuous-monit.md)
+|
+[Abstract](http://www.ocamlpro.com/wp-content/uploads/2016/08/ocaml2016-opam-builder.pdf)
+
+OPAM-builder is an online service built by OCamlPro that monitors the
+official OPAM repository, continuously builds all versions of all
+packages for different versions of OCaml, and displays html reports with
+information of failed installations. It is designed to be used both by
+repository maintainers and package developers with the overall goal of
+improving and maintaining the quality of the OPAM repository. It works
+with 7 OCaml versions ranging from 3.12-4.03.0 (plus betas) and builds
+all packages in almost real time.
+
+Optimisations include:
+
+-   checking only impacted packages. Compute a hash of the meta-data
+    associated with the transitive dependencies of a package, that is
+    easily compared with the previous hash.
+-   fast computation of dependencies. Only calling OPAM once to get the
+    CUDF universe and calling `aspcud` for every other package makes the
+    process \~10 x faster.
+-   caching previous builds. Snapshotting the switch directory before
+    and after each build and installation and storing the files in
+    archives, reusing existing archives where possible.
+
+### Sundials/ML: Interfacing with numerical solvers
+
+[Talk
+Summary](http://icfp2016.mirage.io/OCaml/sundialsml-interfacing-with-.md)
+
+This [implementation](https://github.com/inria-parkas/sundialsml)
+provides an OCaml interface to the Sundials numerical suite, allowing
+the modelling of hybrid systems. The OCaml comparison is safer than
+using C and less prone to errors as it utilises the type system, and
+allows you to build up an AST specifying the options that you want.
+
+### OCaml inside: a drop-in replacement for `libtls`
+
+[Talk
+Summary](http://icfp2016.mirage.io/OCaml/ocaml-inside-a-dropin-replac.md)
+|
+[Abstract](https://www.cl.cam.ac.uk/~jdy22/papers/ocaml-inside-a-drop-in-replacement-for-libtls.pdf)
+
+![Enguerrand presenting
+LibTLS](Engil Libtls.jpg "Enguerrand presenting LibTLS"){width="200"}
+
+Enguerrand Decorne talked us through his 6 month internship at OCaml
+Labs which has focussed on an
+[implementation](https://github.com/mirleft/libnqsb-tls/) to provide a
+fully compatible OCaml alternative to `libtls` which is built in C. The
+challenges associated with movement of memory block during GC were
+overcome by manually managing the block that holds the actual value
+address. Current performance of the library is approximately 70% as fast
+as `libtls` under comparable conditions.
+
+### Semantics of the Lambda intermediate language
+
+[Talk
+Summary](http://icfp2016.mirage.io/OCaml/semantics-of-the-lambda-interm.md)
+
+Pierre Chambart of OCamlPro provided an interesting insight into
+semantics of the OCaml backends, focussing on Lambda. Lambda is an
+intermediate representation of the compiler, and is pure untyped lambda
+calculus. Since this means you cannot use type checking and assume
+information about modules, why would you want to use it?! Lambda does
+provide certain optimisations, and as it is simpler that OCaml, it is
+simpler to use static analysis. The existing semantics of Lambda are not
+well defined, change between versions and are therefore difficult to
+reason about. Pierre reasoned that we don't want to end up with
+something as complicated as C, and in order to obtain proper semantics
+we need to work to make Lambda sensible by outlawing some patterns and
+ensuring that the compiler follows these rules.
+
+### Generic programming in OCaml
+
+[Talk
+Summary](http://icfp2016.mirage.io/OCaml/generic-programming-in-ocaml.md)
+
+This talk highlighted the benefits of generic programming, specifically
+that it can increase expressibility and modularity by avoiding types,
+and the notion that it is essentially another form of polymorphism.
+Generic programming is currently possible in OCaml, thanks to the
+existence of some generic operations that break type abstraction and
+ad-hoc polymorphism (overloading). The authors presented a library for
+generic programming, with current support for cycles, abstract types and
+objects, extensible and polymorphic variants. Future work will focus on
+more documentation and generic combinators.
+
+### Who's got your mail? Mr Mime!
+
+[Talk
+Summary](http://icfp2016.mirage.io/OCaml/whos-got-your-mail-mr-mime.md)
+| [Abstract](http://din.osau.re/mrmime.pdf) ![Romain presenting Mr
+Mime](Romain Mr Mime.jpg "fig:Romain presenting Mr Mime"){width="200"}
+
+Romain Calascibetta has worked tirelessly on this pure-OCaml
+[library](https://github.com/oklm-wsh/MrMime) from scratch during his 6
+month internship with OCaml Labs. Mr Mime sets the high bar of parsing
+any and all emails! It focusses on multi-part mail in particular and
+uses CPS to build a parser based on email headers. This is an exciting
+initial implementation using MirageOS unikernels that send, receive,
+store and process emails, leading the way for related future unikernel
+deployments such as SMTP proxies and spam filters. It has been tested on
+tested on 1800000 emails with a success rate of 99%.
+
+### Improving the OCaml webstack: motivations and progress
+
+[Talk
+summary](http://icfp2016.mirage.io/OCaml/improving-the-ocaml-webstack-.md)
+
+While OCaml has had a good story for JavaScript compilation, the state
+of web server support has been lacking in terms of ease of use,
+features, and performance. Spiros Eliopoulos has spent the last year
+focussing on improving OCaml's support for web application programming.
+He first identified the areas in most need of improvement and chose
+CoHTTP as the server library to build upon, and `async` for monadic
+concurrency after an initial false start with `lwt`. CoHTTP took a large
+amount of time and focus due to issues such as poor scaling under heavy
+load, inconsistency with error handling across implementations, and a
+tough time with Conduit. He made the decision to remove functors, and
+the final product is a rewrite of CoHTTP in the form of libraries
+[Angstrom](https://github.com/inhabitedtype/angstrom), a parser
+combinator library based on Haskell's
+[attoparsec](https://hackage.haskell.org/package/attoparsec) and
+[Faraday](https://github.com/inhabitedtype/faraday), a serialisation
+library that buffers small writes and batches larger buffers. Angstrom
+and Faraday combined with the other libraries Spiros implemented as part
+of the stack are close to the process and experience that most backend
+developers might expect.
