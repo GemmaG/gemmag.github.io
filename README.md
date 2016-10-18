@@ -1,1 +1,0 @@
-# gemmag.github.io
