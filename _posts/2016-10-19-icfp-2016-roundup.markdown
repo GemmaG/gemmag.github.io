@@ -49,14 +49,13 @@ You can access various resources online:
 OCaml Tutorial
 --------------
 
-<img src="/images/2048-iocaml-notepad.png" alt="IOCaml Notepad" width="200"></img>
-<img src="/images/olivier-ocaml-tutorial/jpg" alt="Mindy and Olivier at the OCaml Tutorial" width="200"></img>
+<img src="/images/2048-iocaml-notepad.png" alt="IOCaml Notepad" width="200" />
+<img src="/images/olivier-ocaml-tutorial.jpg" alt="Mindy and Olivier at the OCaml Tutorial" width="200" />
 
 Mindy ran this year's OCaml Tutorial, which started with a gentle
 introduction to OCaml mechanics, and ended with a fun task of writing a
 program to play the [2048](http://gabrielecirulli.github.io/2048/) game
-in a browser. We use [IOCaml
-notepad](https://github.com/andrewray/iocaml) (an OCaml kernel for the
+in a browser. We use [IOCaml notepad](https://github.com/andrewray/iocaml) (an OCaml kernel for the
 IPython notebook) written by Andy Wray to provide the resources needed,
 which was particularly helpful since we were lacking a reliable wifi
 connection. The tutorial was well attended, with 21 people, all with
@@ -78,8 +77,7 @@ the OCaml Labs team.
 
 ### A Year in OCaml
 
-[Talk
-summary](https://github.com/ocamllabs/icfp2016-blog/blob/master/OCaml/invited-talk.md)
+[Talk summary](https://github.com/ocamllabs/icfp2016-blog/blob/master/OCaml/invited-talk.md)
 
 Damien started the day off by talking us through the new features for
 the imminent [OCaml 4.04
@@ -94,8 +92,7 @@ Feb 2017 in preparation for an April 2017 release.
 
 ### OPAM and the OCaml Platform
 
-[Talk
-summary](http://icfp2016.mirage.io/OCaml/the-state-of-the-ocaml-platfor.md)
+[Talk summary](http://icfp2016.mirage.io/OCaml/the-state-of-the-ocaml-platfor.md)
 |
 [Abstract](http://www.ocamlpro.com/wp-content/uploads/2016/08/2016_OUD_gesbert_madhavapeddy.pdf)
 
@@ -119,8 +116,7 @@ manner.
 
 ### Learn OCaml: An online learning centre for OCaml
 
-[Talk
-Summary](http://icfp2016.mirage.io/OCaml/learn-ocaml-an-online-learnin.md)
+[Talk Summary](http://icfp2016.mirage.io/OCaml/learn-ocaml-an-online-learnin.md)
 |
 [Abstract](http://www.ocamlpro.com/wp-content/uploads/2016/08/ocaml-2016-learn-ocaml.pdf)
 
@@ -168,8 +164,7 @@ include feedback from users, and a focus on UI.
 
 ### Lock-free programming with Reagents
 
-[Talk
-Summary](http://icfp2016.mirage.io/OCaml/lockfree-programming-for-the-.md)
+[Talk Summary](http://icfp2016.mirage.io/OCaml/lockfree-programming-for-the-.md)
 | [Abstract](http://kcsrk.info/papers/reagents_ocaml16.pdf)
 
 Designing and implementing scalable concurrency libraries is very
@@ -184,8 +179,7 @@ Stephen Dolan are currently working on at OCaml Labs.
 
 ### Conex: Establishing trust into data repositories
 
-[Talk
-Summary](http://icfp2016.mirage.io/OCaml/conex--establishing-trust-in.md)
+[Talk Summary](http://icfp2016.mirage.io/OCaml/conex--establishing-trust-in.md)
 |
 [Abstract](https://github.com/hannesm/conex-paper/raw/master/paper.pdf)
 
@@ -263,7 +257,7 @@ Summary](http://icfp2016.mirage.io/OCaml/ocaml-inside-a-dropin-replac.md)
 |
 [Abstract](https://www.cl.cam.ac.uk/~jdy22/papers/ocaml-inside-a-drop-in-replacement-for-libtls.pdf)
 
-![Enguerrand presenting LibTLS](/images/engil-libtls.jpg "Enguerrand presenting LibTLS"){width="200"}
+<img src="/images/engil-libtls.jpg" alt="Enguerrand presenting LibTLS" style="float:right" width="200" />
 
 Enguerrand Decorne talked us through his 6 month internship at OCaml
 Labs which has focussed on an
@@ -311,7 +305,9 @@ more documentation and generic combinators.
 
 [Talk
 Summary](http://icfp2016.mirage.io/OCaml/whos-got-your-mail-mr-mime.md)
-| [Abstract](http://din.osau.re/mrmime.pdf) ![Romain presenting Mr Mime](romain-mrmime.jpg "fig:Romain presenting Mr Mime"){width="200"}
+| [Abstract](http://din.osau.re/mrmime.pdf)
+
+<img src="/images/romain-mrmime.jpg" alt="Romain presenting Mr Mime" width="200" style="float:right" />
 
 Romain Calascibetta has worked tirelessly on this pure-OCaml
 [library](https://github.com/oklm-wsh/MrMime) from scratch during his 6
