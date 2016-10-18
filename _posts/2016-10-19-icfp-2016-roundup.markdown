@@ -263,8 +263,7 @@ Summary](http://icfp2016.mirage.io/OCaml/ocaml-inside-a-dropin-replac.md)
 |
 [Abstract](https://www.cl.cam.ac.uk/~jdy22/papers/ocaml-inside-a-drop-in-replacement-for-libtls.pdf)
 
-![Enguerrand presenting
-LibTLS](Engil Libtls.jpg "Enguerrand presenting LibTLS"){width="200"}
+![Enguerrand presenting LibTLS](/images/engil-libtls.jpg "Enguerrand presenting LibTLS"){width="200"}
 
 Enguerrand Decorne talked us through his 6 month internship at OCaml
 Labs which has focussed on an
@@ -312,8 +311,7 @@ more documentation and generic combinators.
 
 [Talk
 Summary](http://icfp2016.mirage.io/OCaml/whos-got-your-mail-mr-mime.md)
-| [Abstract](http://din.osau.re/mrmime.pdf) ![Romain presenting Mr
-Mime](Romain Mr Mime.jpg "fig:Romain presenting Mr Mime"){width="200"}
+| [Abstract](http://din.osau.re/mrmime.pdf) ![Romain presenting Mr Mime](romain-mrmime.jpg "fig:Romain presenting Mr Mime"){width="200"}
 
 Romain Calascibetta has worked tirelessly on this pure-OCaml
 [library](https://github.com/oklm-wsh/MrMime) from scratch during his 6
