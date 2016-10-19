@@ -6,6 +6,9 @@ categories: ocamllabs icfp conference ocaml
 
 [ICFP 2016](http://conf.researchr.org/home/icfp-2016) is over!
 
+<img src="/images/Todai-jitemple.jpg" alt="Todai-ji Temple" width="200" style="float:left" />
+<img src="/images/NaraMascot.jpg" alt="The Mascot of Nara" width="200" style="float:right" />
+
 The Nara Kasugano International Forum was an amazing venue - situated
 beside incredible beauty, history and hundreds of deer on the doorstep!
 With \~600 attendees this was a huge event to coordinate, and the team
@@ -13,6 +16,9 @@ of organisers and volunteers did a fantastic job. The world of
 functional programming was well represented in both an academic and
 industrial sense, with a huge number of commercial sponsors present to
 discuss their real-world applications of FP methods.
+
+<img src="/images/Deer.jpg" alt="Nara Deer" width="200" style="float:left" />
+<img src="/images/JetlaggedOCaml-lers.jpg" alt="Jetlagged OCaml-lers!" width="200" style="float:right" />
 
 Liveblogging
 ------------
@@ -35,8 +41,6 @@ including:
     workshop](http://conf.researchr.org/track/icfp-2016/PLMW-ICFP-2016#program)
 -   [3 talks](http://icfp2016.mirage.io/TyDe) at the [TyDe
     workshop](http://conf.researchr.org/track/icfp-2016/tyde-2016-papers)
-
--- more --
 
 You can access various resources online:
 
