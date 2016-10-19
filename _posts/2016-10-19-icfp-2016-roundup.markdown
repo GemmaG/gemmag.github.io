@@ -14,6 +14,8 @@ categories: ocamllabs icfp conference ocaml
 <img src="/images/Deer.jpg" alt="Nara Deer" width="200" />
 </p>
 
+[ICFP 2016](http://conf.researchr.org/home/icfp-2016) is over!
+
 The Nara Kasugano International Forum was an amazing venue - situated
 beside incredible beauty, history and hundreds of deer on the doorstep!
 With \~600 attendees this was a huge event to coordinate, and the team
