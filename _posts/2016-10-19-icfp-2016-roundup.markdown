@@ -8,6 +8,8 @@ categories: ocamllabs icfp conference ocaml
 
 <img src="/images/Todai-jitemple.jpg" alt="Todai-ji Temple" width="200" style="float:left" />
 <img src="/images/NaraMascot.jpg" alt="The Mascot of Nara" width="200" style="float:right" />
+<img src="/images/Deer.jpg" alt="Nara Deer" width="200" style="float:left" />
+<img src="/images/JetlaggedOCaml-lers.jpg" alt="Jetlagged OCaml-lers!" width="200" style="float:right" />
 
 The Nara Kasugano International Forum was an amazing venue - situated
 beside incredible beauty, history and hundreds of deer on the doorstep!
@@ -17,8 +19,6 @@ functional programming was well represented in both an academic and
 industrial sense, with a huge number of commercial sponsors present to
 discuss their real-world applications of FP methods.
 
-<img src="/images/Deer.jpg" alt="Nara Deer" width="200" style="float:left" />
-<img src="/images/JetlaggedOCaml-lers.jpg" alt="Jetlagged OCaml-lers!" width="200" style="float:right" />
 
 Liveblogging
 ------------
