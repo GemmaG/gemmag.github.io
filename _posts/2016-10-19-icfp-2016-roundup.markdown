@@ -59,11 +59,11 @@ OCaml Tutorial
 <img src="/images/2048-iocaml-notepad.png" alt="IOCaml Notepad" width="200" style="float:left" />
 <img src="/images/olivier-ocaml-tutorial.jpg" alt="Mindy and Olivier at the OCaml Tutorial" style="float:right" width="200" />
 
-Mindy ran this year's OCaml Tutorial, which started with a gentle
+Mindy Preston ran this year's OCaml Tutorial, which started with a gentle
 introduction to OCaml mechanics, and ended with a fun task of writing a
 program to play the [2048](http://gabrielecirulli.github.io/2048/) game
 in a browser. We use [IOCaml notepad](https://github.com/andrewray/iocaml) (an OCaml kernel for the
-IPython notebook) written by Andy Wray to provide the resources needed,
+IPython notebook) written by Andy Ray to provide the resources needed,
 which was particularly helpful since we were lacking a reliable wifi
 connection. The tutorial was well attended, with 21 people, all with
 varying abilities and experience including some Haskell developers and
