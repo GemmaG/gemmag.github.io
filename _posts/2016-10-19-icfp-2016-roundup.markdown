@@ -8,9 +8,10 @@ categories: ocamllabs icfp conference ocaml
 
 <p>
 <img src="/images/Todai-jitemple.jpg" alt="Todai-ji Temple" width="200" />
+<img src="/images/JetlaggedOCaml-lers.jpg" alt="Jetlagged OCaml-lers!" width="200" />
+<br />
 <img src="/images/NaraMascot.jpg" alt="The Mascot of Nara" width="200" />
 <img src="/images/Deer.jpg" alt="Nara Deer" width="200" />
-<img src="/images/JetlaggedOCaml-lers.jpg" alt="Jetlagged OCaml-lers!" width="200" />
 </p>
 
 The Nara Kasugano International Forum was an amazing venue - situated
