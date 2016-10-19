@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Computer Laboratory, and contribute to open source communities around
   OCaml, MirageOS and research projects such as DataBox.
 baseurl: ""
-url: "https://gemmag.github.io"
+url: "http://reynard.io"
 twitter_username: em3r4ld6
 github_username:  GemmaG
 
