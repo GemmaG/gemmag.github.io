@@ -6,10 +6,12 @@ categories: ocamllabs icfp conference ocaml
 
 [ICFP 2016](http://conf.researchr.org/home/icfp-2016) is over!
 
-<img src="/images/Todai-jitemple.jpg" alt="Todai-ji Temple" width="200" style="float:left" />
-<img src="/images/NaraMascot.jpg" alt="The Mascot of Nara" width="200" style="float:right" />
-<img src="/images/Deer.jpg" alt="Nara Deer" width="200" style="float:left" />
-<img src="/images/JetlaggedOCaml-lers.jpg" alt="Jetlagged OCaml-lers!" width="200" style="float:right" />
+<p>
+<img src="/images/Todai-jitemple.jpg" alt="Todai-ji Temple" width="200" />
+<img src="/images/NaraMascot.jpg" alt="The Mascot of Nara" width="200" />
+<img src="/images/Deer.jpg" alt="Nara Deer" width="200" />
+<img src="/images/JetlaggedOCaml-lers.jpg" alt="Jetlagged OCaml-lers!" width="200" />
+</p>
 
 The Nara Kasugano International Forum was an amazing venue - situated
 beside incredible beauty, history and hundreds of deer on the doorstep!
