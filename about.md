@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I work as the Operations Director for [OCaml Labs](ocaml.io) and I live in Cambridge, UK.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I consume music on [Mixcloud](https://www.mixcloud.com/em3r4ld/) and [Spotify](spotify:user:em3r4ld); films of all types; gin & whiskey and all food imaginable.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I like foxes :)
