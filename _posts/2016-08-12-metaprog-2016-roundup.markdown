@@ -52,14 +52,15 @@ Topics
 * [Multi-stage programming Part 1](http://www.cl.cam.ac.uk/events/metaprog2016/psd1.pdf), [Multi-stage programming Part 2](http://www.cl.cam.ac.uk/events/metaprog2016/psd2.pdf): Jeremy Yallop
 * [Foundations of metaprogramming](http://www.cl.cam.ac.uk/events/metaprog2016/metaprogramming-martin-berger.pdf): Martin Berger
 * A reflection on types/Template Haskell 14 years on: Simon Peyton Jones
-* Lightning talks:
-..* Mietek Bak: [Towards intentional analysis of syntax](https://mietek.github.io/metaprog2016/html/Metaprog2016.html)
-..* Kwanghoon Choi: [SMLOG: an embedding of logic language in Standard ML](http://www.cl.cam.ac.uk/events/metaprog2016/kwanghoon-choi-MetaProg2016talk.pdf)
-..* Artúr Poór: [Parallelization of Scala programs by refactoring](http://www.cl.cam.ac.uk/events/metaprog2016/parallelization-of-scala-programs.pdf)
-..* Aggelos Biboudis: [Stream Fusion to perfection](http://www.cl.cam.ac.uk/events/metaprog2016/stream-fusion-to-perfection.pdf)
-..* Martin Lester: [Static analysis for JavaScript-Style eval](http://www.cl.cam.ac.uk/events/metaprog2016/mml-talk-meta.pdf)
-..* L. Thomas van Binsbergen: [Reusable components for formal and executable language specification (from the PLanCompS project)](http://www.cl.cam.ac.uk/events/metaprog2016/van-binsbergen-reusable-components.pdf)
-..* Michael Ballantyne: [Modelling macro hygiene with scope graphs](http://www.cl.cam.ac.uk/events/metaprog2016/mpss-hygiene-presentation.pdf)
-..* Paul Laforgue: [Codata types and copattern matching](http:/www.cl.cam.ac.uk/events/metaprog2016/codata-types-and-copattern-matching.pdf)
+
+Lightning talks:
+* Mietek Bak: [Towards intentional analysis of syntax](https://mietek.github.io/metaprog2016/html/Metaprog2016.html)
+* Kwanghoon Choi: [SMLOG: an embedding of logic language in Standard ML](http://www.cl.cam.ac.uk/events/metaprog2016/kwanghoon-choi-MetaProg2016talk.pdf)
+* Artúr Poór: [Parallelization of Scala programs by refactoring](http://www.cl.cam.ac.uk/events/metaprog2016/parallelization-of-scala-programs.pdf)
+* Aggelos Biboudis: [Stream Fusion to perfection](http://www.cl.cam.ac.uk/events/metaprog2016/stream-fusion-to-perfection.pdf)
+* Martin Lester: [Static analysis for JavaScript-Style eval](http://www.cl.cam.ac.uk/events/metaprog2016/mml-talk-meta.pdf)
+* L. Thomas van Binsbergen: [Reusable components for formal and executable language specification (from the PLanCompS project)](http://www.cl.cam.ac.uk/events/metaprog2016/van-binsbergen-reusable-components.pdf)
+* Michael Ballantyne: [Modelling macro hygiene with scope graphs](http://www.cl.cam.ac.uk/events/metaprog2016/mpss-hygiene-presentation.pdf)
+* Paul Laforgue: [Codata types and copattern matching](http:/www.cl.cam.ac.uk/events/metaprog2016/codata-types-and-copattern-matching.pdf)
 
 You can see the entire [schedule](http://www.cl.cam.ac.uk/events/metaprog2016/timetable.html), [lecture materials](http://www.cl.cam.ac.uk/events/metaprog2016/lectures.html) and other information on the Summer School [site](http://www.cl.cam.ac.uk/events/metaprog2016/index.html).
