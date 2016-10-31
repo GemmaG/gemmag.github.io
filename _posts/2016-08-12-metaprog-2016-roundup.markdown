@@ -45,15 +45,14 @@ Topics
 * [Embedding by normalisation](https://github.com/shayan-najd/NanoFeldspar/blob/master/Examples/MetaProg2016/Slides.pdf): Shayan Najd.
 * Type-safe embedding and optimising DSLs in the typed final style
 * [Self-specialising interpreters and partial evaluation](http://chrisseaton.com/rubytruffle/metass16/metass.pdf): Chris Seaton
-* Comparing approaches to generic programming: José Pedro Magalhães
-** [A generic deriving mechanism of Haskell](http://www.cl.cam.ac.uk/events/metaprog2016/generic-deriving.pdf)
-** [A formal comparison of approaches to datatype-generic programming](http://www.cl.cam.ac.uk/events/metaprog2016/generic-comparison.pdf)
+* Comparing approaches to generic programming: José Pedro Magalhães. [A generic deriving mechanism of Haskell](http://www.cl.cam.ac.uk/events/metaprog2016/generic-deriving.pdf), [A formal comparison of approaches to datatype-generic programming](http://www.cl.cam.ac.uk/events/metaprog2016/generic-comparison.pdf)
 * The highs and lows of macros in the modern language: Laurence Tratt
 * [Multi-stage programming Part 1](http://www.cl.cam.ac.uk/events/metaprog2016/psd1.pdf), [Multi-stage programming Part 2](http://www.cl.cam.ac.uk/events/metaprog2016/psd2.pdf): Jeremy Yallop
 * [Foundations of metaprogramming](http://www.cl.cam.ac.uk/events/metaprog2016/metaprogramming-martin-berger.pdf): Martin Berger
 * A reflection on types/Template Haskell 14 years on: Simon Peyton Jones
 
 Lightning talks:
+
 * Mietek Bak: [Towards intentional analysis of syntax](https://mietek.github.io/metaprog2016/html/Metaprog2016.html)  
 * Kwanghoon Choi: [SMLOG: an embedding of logic language in Standard   ML](http://www.cl.cam.ac.uk/events/metaprog2016/kwanghoon-choi-MetaProg2016talk.pdf)  
 * Artúr Poór: [Parallelization of Scala programs by refactoring](http://www.cl.cam.ac.uk/events/metaprog2016/parallelization-of-scala-programs.pdf)  
