@@ -4,7 +4,6 @@ title: Don't bite the hand that feeds-back
 ---
 
 ## TL;DR
---------------
 
 * Please add your voice [here!](https://goo.gl/forms/N62k7u1aRpHNwLCt2)
 * Join our [discussions](https://mirage.io/community/): [mailing list](https://lists.xenproject.org/cgi-bin/mailman/listinfo/mirageos-devel), [IRC #mirage](http://freenode.net/)
