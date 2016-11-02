@@ -17,7 +17,7 @@ Let us know if there is something you'd like to work on!
 
 **Details**
 
-We will be in N7 (through the second archway on the left) from 630pm onwards, please indicate your interest via the [Doodle](http://doodle.com/poll/fsy7gue9xvbvvdm8), and let me know if you will be eating with us. You can eat in the buttery (between 545pm-645pm) or have some buffet food in the room itself - let me know your preference so that I don't over/under order on buffet food.
+We will be in N7 (through the second archway on the left) from 630pm onwards, please indicate your interest via the [Doodle](http://doodle.com/poll/fsy7gue9xvbvvdm8), and let me know if you will be eating with us. You can eat in the buttery (between 545pm-645pm) or have some buffet food in the room itself - let me know your preference.
 
 More details on the Compiler Hacking [blog](https://ocamllabs.github.io/compiler-hacking/2016/11/01/fifteenth-compiler-hacking-evening.html).
 
