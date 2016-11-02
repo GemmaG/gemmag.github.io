@@ -9,6 +9,7 @@ title: Don't bite the hand that feeds-back
 * Join our [discussions](https://mirage.io/community/): [mailing list](https://lists.xenproject.org/cgi-bin/mailman/listinfo/mirageos-devel), [IRC #mirage](http://freenode.net/)
 * Come to our events: [Compiler hacking](https://ocamllabs.github.io/compiler-hacking/) and [MirageOS hackathons](https://mirage.io/blog/2016-spring-hackathon)
 
+-------
 
 ## Community Feedback
 
@@ -17,8 +18,6 @@ With work ramping up towards the next MirageOS release, I wanted to take a look 
 I chatted with some of the core MirageOS community team initially, to ascertain if there was anything glaring that we should focus on first, then followed up with others in the core dev team, later extending the questions out to the mailing list and the wider community via Slack and Twitter. After much internal debate about the benefits of a short, focussed vs a longer, wider-reaching poll, I settled on questions that naturally formed two categories: one focussed on our fortnightly catch up, agenda and logs, and another more general category touching on the mailing list as a source of information and advice. I chose to keep all responses anonymous.
 
 You can see the full poll [here](https://goo.gl/forms/N62k7u1aRpHNwLCt2).
-
-### Status:
 
 The poll has been online for 2 weeks, and we have had 11 unique responses from the MirageOS community. While I am pleased with that level of response, I have reopened the form to accept more feedback, and have asked members who have not yet participated to contribute. I have also opened it up to the wider group of MirageOS users, including the ReasonML #mirageos channel on [Discord](https://discordapp.com/invite/reasonml).
 
