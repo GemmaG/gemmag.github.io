@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hack Event: OCaml Compiler & MirageOS
+title: Hack Event - OCaml Compiler & MirageOS
 ---
 
 The evenings are getting dark - come and hack with us!
