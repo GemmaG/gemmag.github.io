@@ -12,6 +12,8 @@ Thank you to everyone who attended the [hack event](http://reynard.io/2016/11/02
 
 Friendly conversation, wine and one eye on the [political](http://www.bbc.co.uk/news/election-us-2016-37932231) [news](http://www.databoxproject.uk/) of the day led to a productive evening of PRs, merges, documentation and project discussion.
 
+Join us for our next hack event at Pembroke College on 7th February 2017, more details to follow.
+
 *Thanks to the following people who provided updates on their work, and to Anil Madhavapeddy for co-authoring this article.*
 
 ### First commits
