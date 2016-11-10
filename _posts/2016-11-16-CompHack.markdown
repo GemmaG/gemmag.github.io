@@ -6,7 +6,7 @@ title: Hack Event Nov 2016 - Activity Update
 Thank you to everyone who attended the hack event last night! We had over 20 attendees who came to work on issues related to the OCaml compiler or MirageOS, from varied organisations including the [University of Cambridge](https://www.cl.cam.ac.uk/), [Docker](https://www.docker.com/), [Jane Street](https://www.janestreet.com/technology/), [Citrix](https://www.citrix.co.uk/), [Uber](https://www.uber.com/en-GB/cities/london/) and [Hitachi](http://www.hitachi.com/).
 
 <p>
-<img src="/images/CompHack9:11:16.jpg" alt="Pembroke Hack Event" width="200" />
+<img src="/images/CompHack9:11:16.JPG" alt="Pembroke Hack Event" width="200" />
 </p>
 
 Friendly conversation, wine and one eye on the [political](http://www.bbc.co.uk/news/election-us-2016-37932231) [news](http://www.databoxproject.uk/) of the day led to a productive evening of PRs, merges, documentation and project discussion.
