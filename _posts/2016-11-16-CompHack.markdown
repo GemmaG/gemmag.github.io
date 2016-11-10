@@ -7,6 +7,7 @@ Thank you to everyone who attended the hack event last night! We had over 20 att
 
 <p>
 <img src="/images/CompHack9:11:16.JPG" alt="Pembroke Hack Event" width="200" />
+<img src="/images/2CompHack9:11:16.JPG" alt="Pembroke College" width="200" />
 </p>
 
 Friendly conversation, wine and one eye on the [political](http://www.bbc.co.uk/news/election-us-2016-37932231) [news](http://www.databoxproject.uk/) of the day led to a productive evening of PRs, merges, documentation and project discussion.
