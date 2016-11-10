@@ -3,7 +3,7 @@ layout: post
 title: Hack Event Nov 2016 - Activity Update
 ---
 
-Thank you to everyone who attended the hack event last night! We had over 20 attendees who came to work on issues related to the OCaml compiler or MirageOS, from varied organisations including the [University of Cambridge](https://www.cl.cam.ac.uk/), [Docker](https://www.docker.com/), [Jane Street](https://www.janestreet.com/technology/), [Citrix](https://www.citrix.co.uk/), [Uber](https://www.uber.com/en-GB/cities/london/) and [Hitachi](http://www.hitachi.com/).
+Thank you to everyone who attended the [hack event](http://reynard.io/2016/11/02/CompilerHack.html) last night! We had over 20 attendees who came to work on issues related to the [OCaml](http://ocaml.org/) compiler or [MirageOS](https://mirage.io/), from varied organisations including the [University of Cambridge](https://www.cl.cam.ac.uk/), [Docker](https://www.docker.com/), [Jane Street](https://www.janestreet.com/technology/), [Citrix](https://www.citrix.co.uk/), [Uber](https://www.uber.com/en-GB/cities/london/) and [Hitachi](http://www.hitachi.com/).
 
 <p>
 <img src="/images/CompHack9:11:16.JPG" alt="Pembroke Hack Event" width="200" />
