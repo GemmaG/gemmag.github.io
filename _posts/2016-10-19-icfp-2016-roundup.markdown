@@ -25,6 +25,7 @@ discuss their real-world applications of FP methods.
 
 <p>
 <img src="/images/OCamlSpacetime.jpg" alt="OCaml Spacetime t-shirt delivery" width="200" style="float:left" />
+<img src="/images/OCamlSpacetimeBox.jpg" alt="Exciting delivery!" style="float:right" width="200" />
 </p>
 
 The OCaml 4.04.0 release is due soon, and we designed and printed some t-shirts to celebrate the new memory profiler: Spacetime! Thanks to [Indigo Clothing](http://www.indigoclothing.com/) in Cambridge for their excellent printing and swift turnaround!
