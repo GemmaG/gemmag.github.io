@@ -23,6 +23,10 @@ functional programming was well represented in both an academic and
 industrial sense, with a huge number of commercial sponsors present to
 discuss their real-world applications of FP methods.
 
+<img src="/images/OCamlSpacetime.jpg" alt="OCaml Spacetime t-shirt delivery" width="200" style="float:left" />
+
+The 4.04.0 release is coming soon, and we designed and printed some t-shirts to celebrate the new memory profiler: Spacetime! Thanks to [Indigo Clothing](http://www.indigoclothing.com/) in Cambridge for their excellent printing and swift turnaround!
+
 
 Liveblogging
 ------------
