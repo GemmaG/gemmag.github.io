@@ -27,9 +27,9 @@ discuss their real-world applications of FP methods.
 <img src="/images/OCamlSpacetime.jpg" alt="OCaml Spacetime t-shirt delivery" width="200" style="float:left" />
 </p>
 
-<p>
-The 4.04.0 release is coming soon, and we designed and printed some t-shirts to celebrate the new memory profiler: Spacetime! Thanks to [Indigo Clothing](http://www.indigoclothing.com/) in Cambridge for their excellent printing and swift turnaround!
-</p>
+The OCaml 4.04.0 release is due soon, and we designed and printed some t-shirts to celebrate the new memory profiler: Spacetime! Thanks to [Indigo Clothing](http://www.indigoclothing.com/) in Cambridge for their excellent printing and swift turnaround!
+
+----
 
 Liveblogging
 ------------
@@ -61,6 +61,8 @@ You can access various resources online:
 -   [co-located workshops and
     symposia](http://conf.researchr.org/track/icfp-2016/icfp-2016-workshops#About)
 
+----
+
 OCaml Tutorial
 --------------
 
@@ -82,6 +84,8 @@ moving on to abstract data types and pattern matching. The resources are
 available
 [here](https://github.com/ocamllabs/2048-tutorial/blob/master/task.md),
 have a go at building the game yourself!
+
+----
 
 OCaml Workshop
 --------------
