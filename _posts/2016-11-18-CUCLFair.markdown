@@ -20,11 +20,15 @@ I attended the annual Computer Lab Supporters Club [Recruitment Fair](https://ww
 
 Financial and trading companies often utilise software and hardware researched and developed at the Computer Lab, and this time OCaml was well represented by Jane Street and Aesthetic Integration.
 
+<p>
 <img src="/images/JaneStreetRotated.png" alt="Jane Street" width="200" style="float:left" />
+</p>
 
 [Jane Street](https://www.janestreet.com/) use OCaml and regularly release patches and features upstream. Their [Tech Blog](https://blogs.janestreet.com/category/ocaml/) details many of the OCaml features they use and develop in-house, and many of these are collaborative projects within the OCaml Labs. We work closely with their development team on compiler and runtime improvements, language features and teaching resources for interns and students.
 
+<p>
 <img src="/images/AestheticIntegrationRotated.png" alt="Aesthetic Integration" style="float:left" width="200" />
+</p>
 
 [Aesthetic Integration](https://www.imandra.ai/) developed the Imandra Modelling Language (IML) which combines a programming language with mathematical verification logic to reason about a large scale system. IML is based on a subset of OCaml and introduces a powerful automated theorem proving engine which can be applied to a huge range of industry areas - currently financial markets.
 
