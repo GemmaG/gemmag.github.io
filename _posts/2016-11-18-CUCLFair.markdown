@@ -6,19 +6,25 @@ title: CUCL Recruitment Fair 2016
 Cambridge Computer Lab runs a [Supporters Club](https://www.cl.cam.ac.uk/supporters-club/members.html) for a [group of companies](https://www.cl.cam.ac.uk/supporters-club/members.html), ranging from the very small to the large, which actively support teaching or research in the Computer Laboratory.
 
 <p>
-<img src="/images/BusyEnd.jpg" alt="Fair in full swing" width="200" />
+<img src="/images/BusyEnd.JPG" alt="Fair in full swing" width="200" />
 </p>
 
 
 I attended the annual Computer Lab Supporters Club [Recruitment Fair](https://www.cl.cam.ac.uk/supporters-club/recruitment-fair.html) this morning, and was (almost literally) bowled over by the size of the crowd and level of interest in projects related to and disseminating from the Lab. This is the largest fair to date - so large in fact it had to be spread over two days: Thursday 17th and Friday 18th November. The Lab welcomed 84 different companies showcasing their work and current vacancies, eager to talk to the current students and staff. Present members included huge companies such as [Amazon](https://www.amazon.jobs/location/cambridge-uk), [Apple](http://www.apple.com/jobs/uk/), [Citi](http://www.citigroup.com/citi/), [ARM](https://www.arm.com/); and smaller local companies [Geospock](https://geospock.com/), [Bromium](https://www.bromium.com/), [Cydar](https://cydarmedical.com/), [Telensa](http://www.telensa.com/) and [Argon Design](http://www.argondesign.com/).
 
+<p>
+<img src="/images/OverheadRotated.png" alt="View from the top" width="200" />
+<img src="/images/Overhead2Rotated.png" alt="More from the top" width="200" />
+<br />
+</p>
+
 Financial and trading companies often utilise software and hardware researched and developed at the Computer Lab, and this time OCaml was well represented by Jane Street and Aesthetic Integration.
 
-<img src="/images/JaneStreet.png" alt="Jane Street" width="200" style="float:left" />
+<img src="/images/JaneStreetRotated.png" alt="Jane Street" width="200" style="float:left" />
 
 [Jane Street](https://www.janestreet.com/) use OCaml and regularly release patches and features upstream. Their [Tech Blog](https://blogs.janestreet.com/category/ocaml/) details many of the OCaml features they use and develop in-house, and many of these are collaborative projects within the OCaml Labs. We work closely with their development team on compiler and runtime improvements, language features and teaching resources for interns and students.
 
-<img src="/images/AestheticIntegration.jpg" alt="Aesthetic Integration" style="float:left" width="200" />
+<img src="/images/AestheticIntegrationRotated.png" alt="Aesthetic Integration" style="float:left" width="200" />
 
 [Aesthetic Integration](https://www.imandra.ai/) developed the Imandra Modelling Language (IML) which combines a programming language with mathematical verification logic to reason about a large scale system. IML is based on a subset of OCaml and introduces a powerful automated theorem proving engine which can be applied to a huge range of industry areas - currently financial markets.
 
