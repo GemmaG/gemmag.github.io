@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Public Drafts in Jekyll"
+draft: true
+---
+
+Testing out public drafts.
