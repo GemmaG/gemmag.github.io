@@ -38,4 +38,4 @@ Join us for our next hack event at Pembroke College on 7th February 2017, more d
 * Gemma Gordon worked on the Merlin editor [project roadmap](https://github.com/the-lambda-church/merlin/projects/1) and [issue labelling](https://github.com/the-lambda-church/merlin/issues) workflow.
 * David Allsopp reviewed and merged the [PR](https://github.com/ocaml/ocaml/pull/866) related to merging build systems in the stdlib directory.
 
-*Thanks to the following people who provided updates on their work, and to Anil Madhavapeddy for co-authoring this article.*
+*Thanks to the people who provided updates on their work, and to Anil Madhavapeddy for co-authoring this article.*
