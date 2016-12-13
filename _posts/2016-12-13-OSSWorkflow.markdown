@@ -1,7 +1,6 @@
 ---
 layout: post
 title: OSS - Repository Maintenance and Management
-draft: true
 ---
 
 I am new to open source maintenance and management, and my position at OCaml Labs is operational rather than technical. It's important for me to grasp the general idea of a project enough to see how it fits within our larger goals, and then help it move forward without administrative blockers. Figuring out how I can fit in this highly technical environment has been interesting and challenging (that's a whole other post!), but I've recently implemented a few changes that (I hope) will start to positively impact our projects and our research.
