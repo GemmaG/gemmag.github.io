@@ -18,6 +18,8 @@ I've tried many methods of to-do list management, including:
 ### Ye Olde Paper & Pen
 I can write pages and pages of lists, but there is little organisation to it and my scrawlings are not always legible to others. I still use a scribble pad to jot down the individual tasks I need to complete that day - physically crossing off items on a list is always satisfying! - but carting around a messy, poorly organised notebook to and from meetings is not especially helpful for sharing progress and interacting with colleagues.
 
+_**UPDATE: I have succumbed to maintaining a bullet journal! It is no longer a messy, poorly organised notebook, and is the perfect complement to my online workflow**_
+
 ### Inbox To Do List
 I must confess that my inbox was managed rather appallingly until recently. Although I dealt with important or time-sensitive emails quickly I seemed unable to decide on a strategy for managing emails that were a collection of useful details, or decisions that I would need to make at some point in the future - all of the non-immediate tasks. I tried using my inbox as a todo list by using Gmail labels, but that quickly got out of hand and I ended up just avoiding looking at my email, missing the entire point! It's also very easy to unintentionally filter out important conversations, especially if every query or pending decision is part of a long, in-depth thread.
 
