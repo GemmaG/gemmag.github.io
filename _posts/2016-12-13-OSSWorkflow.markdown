@@ -23,10 +23,10 @@ _**UPDATE: I have succumbed to maintaining a bullet journal! It is no longer a m
 ### Inbox To Do List
 I must confess that my inbox was managed rather appallingly until recently. Although I dealt with important or time-sensitive emails quickly I seemed unable to decide on a strategy for managing emails that were a collection of useful details, or decisions that I would need to make at some point in the future - all of the non-immediate tasks. I tried using my inbox as a todo list by using Gmail labels, but that quickly got out of hand and I ended up just avoiding looking at my email, missing the entire point! It's also very easy to unintentionally filter out important conversations, especially if every query or pending decision is part of a long, in-depth thread.
 
-### Kanban
-Hello Trello! I found this idea worked for the most part, but I couldn't get everyone to join Trello and interact with my board, which meant overall it was not useful and got abandoned. I liked the idea of having a process that individual tasks pass through - the standard set-up is "Todo", "Doing", "Done", or similar variations - and clicking and dragging cards between columns is helpful. Perhaps I could apply this principle elsewhere?
+### [Kanban](http://kanbanblog.com/explained/)
+Hello [Trello](https://trello.com/)! I found this idea worked for the most part, but I couldn't get everyone to join Trello and interact with my board, which meant overall it was not useful and got abandoned. I liked the idea of having a process that individual tasks pass through - the standard set-up is "Todo", "Doing", "Done", or similar variations - and clicking and dragging cards between columns is helpful. Perhaps I could apply this principle elsewhere?
 
-### GitHub
+### [GitHub](https://github.com/)
 The majority of developers on our team use GitHub to release code and maintain our open source repositories, so this seemed like a useful place to start. I wanted to try implementing a management workflow within an existing structure to increase the likelihood of long term adoption and success. Initially I looked at the myriad of project management extensions and apps that have been developed as plugins for GitHub, but I was keen to avoid the Trello problem we faced when using another external application. Fortunately GitHub released their Projects feature around this time, and this together with using Labels and Milestones addresses most of my needs directly.
 
 ### GitHub Issues, Labels, Milestones and Projects
