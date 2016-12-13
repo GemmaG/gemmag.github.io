@@ -40,10 +40,10 @@ The approach I currently use is also slightly different to the usual Kanban meth
 This process allows me to prioritise my todo items and for anyone on my immediate core team (those who have access to the repository) to see exactly what I am working on at the moment, the state it is currently in, and what is next on my agenda/workflow. I move issues/cards between the columns and update comments on them to provide incremental updates on the topic itself. I have given permission for my immediate team to also add issues to the workflow management process on the basis that they use it in a similar way - essentially it is a shared todo list that is updated on the fly.
 
 Example process:
-1: I create an Issue for "Create a list of internship projects for 2017". Everyone who has access to the repository will be able to see that is a current Issue
-2: Under Projects, I click through to the Project entitled "Gemma's Workflow" and click "+ Add Cards" on the top right. A drop down menu of all Issues appear, and I can drag the one I need into the column that is most appropriate, for example "This Week"
-3: Everyone can see from this overview that I would like to address this task at some point within the next week
-4: I add a description with some details of what we need to do, and @ someone on my team who I want to check it over next
+1: I create an Issue for "Create a list of internship projects for 2017". Everyone who has access to the repository will be able to see that is a current Issue  
+2: Under Projects, I click through to the Project entitled "Gemma's Workflow" and click "+ Add Cards" on the top right. A drop down menu of all Issues appear, and I can drag the one I need into the column that is most appropriate, for example "This Week"  
+3: Everyone can see from this overview that I would like to address this task at some point within the next week  
+4: I add a description with some details of what we need to do, and @ someone on my team who I want to check it over next  
 5: They can see the Issue, add a comment, move the Issue around within the Project workflow, or close it if complete
 
 Everyone can see the current status of the todo task, and it is easily passed between team members whose input is required. The vast majority of my team is on GitHub regularly, so items are addressed in a timely and effective manner - if one person is blocked, it can quickly and easily be redirected.
