@@ -3,6 +3,17 @@ layout: post
 title: OSS Repository Maintenance and Management
 ---
 
+**TL;DR**
+
+* We are experimenting with using GitHub Issues, Labels and Milestones to manage our distributed open source projects
+* Utilising tools that your team already uses is beneficial
+* Good for collaborative workflows with many contributors and interested parties
+* Requires consistent input and tweaking
+
+----
+
+## My Role
+
 I am new to open source maintenance and management, and my position at OCaml Labs is operational rather than technical. It's important for me to grasp the general idea of a project enough to see how it fits within our larger goals, and then help it move forward without administrative blockers. Figuring out how I can fit in this highly technical environment has been interesting and challenging (that's a whole other post!), but I've recently implemented a few changes that (I hope) will start to positively impact our projects and our research.
 
 ## Motivation
