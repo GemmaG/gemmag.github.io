@@ -3,7 +3,7 @@ layout: post
 title: Mirage Logo Fun
 ---
 
-With the new MirageOS 3.0 release on the horizon I looked at some ideas for a new logo. It will be a shame to lose our well-loved llama but it's also a great time for a new shiny image!
+With the new MirageOS 3.0 release on the horizon I looked at some ideas for a new logo. It will be a shame to lose our well-loved llama but it's also a great time for a new shiny logo!
 
 I wanted the design to evoke the blurry appearance of a mirage, and also incorporate the 'M'. The bright blue of the desert sky is a pleasing complement to the OCaml orange.
 
