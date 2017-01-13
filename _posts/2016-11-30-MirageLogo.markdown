@@ -12,11 +12,11 @@ After talking with Anil, we thought it might interesting to have the logo also r
 They could potentially be used as badges for builds passing CI, or for Mirage libraries at different levels of development etc.
 
 <p>
-<img src="/images/DraftMirageLogoStage1.png" alt="Stage 1" width="200" />
-<img src="/images/DraftMirageLogoStage2.png" alt="Stage 2" width="200" />
+<img src="/images/DraftMirageLogos/DraftMirageLogoStage1.png" alt="Stage 1" width="200" />
+<img src="/images/DraftMirageLogos/DraftMirageLogoStage2.png" alt="Stage 2" width="200" />
 <br />
-<img src="/images/DraftMirageLogoStage3.png" alt="Complete!" width="200" />
-<img src="/images/DraftMirageLogoOutlineSmall.png" alt="Small and outlined" width="200" />
+<img src="/images/DraftMirageLogos/DraftMirageLogoStage3.png" alt="Complete!" width="200" />
+<img src="/images/DraftMirageLogos/DraftMirageLogoOutlineSmall.png" alt="Small and outlined" width="200" />
 </p>
 
 Still a work in progress - let me know what you think! @gemmag / gg417@cl.cam.ac.uk
