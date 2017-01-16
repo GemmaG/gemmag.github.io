@@ -93,7 +93,7 @@ We decided to represent the above stages of development as Labels, and now ensur
 
 * [Area/Emacs](https://github.com/the-lambda-church/merlin/labels/Area%2FEmacs): Related to Emacs
 * [Area/Vim](https://github.com/the-lambda-church/merlin/labels/Area%2FVim): Related to Vim
-[* Kind/Bug](https://github.com/the-lambda-church/merlin/labels/Kind%2FBug): This issue describes a problem
+* [Kind/Bug](https://github.com/the-lambda-church/merlin/labels/Kind%2FBug): This issue describes a problem
 * [Kind/Docs](https://github.com/the-lambda-church/merlin/labels/Kind%2FDocs): This issue describes a documentation change
 * [Kind/Feature-Request](https://github.com/the-lambda-church/merlin/labels/Kind%2FFeature-request): Solving this issue requires implementing a new feature
 * [Kind/To-discuss](https://github.com/the-lambda-church/merlin/labels/Kind%2FTo-discuss): Discussion needed to converge on a solution; often aesthetic. See mailing list for discussion
