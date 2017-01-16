@@ -75,6 +75,8 @@ The combination of Issues, Labels and Milestones together with the prioritisatio
 
 The workflow application to Merlin is still a work in progress, but Fred and I collectively are looking at the most applicable labels, and looked at how we might use the Projects method in this case.
 
+### Process
+
 New project features tend to go through the following process:
 
 * Idea/discussion
@@ -87,21 +89,27 @@ New project features tend to go through the following process:
 The Merlin Issue tracker was initially arranged in the basic format that GitHub suggests: Labels such as "Bug" and "Feature request" were present, but as time progressed, some issues were pushed to the bottom and left unresolved.
 We decided to represent the above stages of development as Labels, and now ensure that each issue goes through this process to avoid losing track. Thanks to the [Docker for Mac and Windows](https://github.com/docker/for-mac/labels) repository for inspiration!
 
-[Area/Emacs](https://github.com/the-lambda-church/merlin/labels/Area%2FEmacs): Related to Emacs
-[Area/Vim](https://github.com/the-lambda-church/merlin/labels/Area%2FVim): Related to Vim
-[Kind/Bug](https://github.com/the-lambda-church/merlin/labels/Kind%2FBug): This issue describes a problem
-[Kind/Docs](https://github.com/the-lambda-church/merlin/labels/Kind%2FDocs): This issue describes a documentation change
-[Kind/Feature-Request](https://github.com/the-lambda-church/merlin/labels/Kind%2FFeature-request): Solving this issue requires implementing a new feature
-[Kind/To-discuss](https://github.com/the-lambda-church/merlin/labels/Kind%2FTo-discuss): Discussion needed to converge on a solution; often aesthetic. See mailing list for discussion
-[Status/0-More-info-needed](https://github.com/the-lambda-church/merlin/labels/Status%2F0-More-info-needed): More information is needed before this issue can be triaged
-[Status/0-Triage](https://github.com/the-lambda-church/merlin/labels/Status%2F0-Triage): This issue needs triaging
-[Status/1-Acknowledged](https://github.com/the-lambda-church/merlin/labels/Status%2F1-Acknowledged): This issue has been triaged and is being investigated
-[Status/2-Regression](https://github.com/the-lambda-church/merlin/labels/Status%2F2-Regression): Known workaround to be applied and tested
-[Status/3-Fixed-need-test](https://github.com/the-lambda-church/merlin/labels/Status%2F3-Fixed-need-test): This issue has been fixed and needs checking
-[Status/4-Fixed](https://github.com/the-lambda-church/merlin/labels/Status%2F4-Fixed): This issue has been fixed!
-[Status/5-Awaiting-feedback](https://github.com/the-lambda-church/merlin/labels/Status%2F5-Awaiting-feedback): This issue requires feedback on a previous fix
+### Labels
+
+* [Area/Emacs](https://github.com/the-lambda-church/merlin/labels/Area%2FEmacs): Related to Emacs
+* [Area/Vim](https://github.com/the-lambda-church/merlin/labels/Area%2FVim): Related to Vim
+[* Kind/Bug](https://github.com/the-lambda-church/merlin/labels/Kind%2FBug): This issue describes a problem
+* [Kind/Docs](https://github.com/the-lambda-church/merlin/labels/Kind%2FDocs): This issue describes a documentation change
+* [Kind/Feature-Request](https://github.com/the-lambda-church/merlin/labels/Kind%2FFeature-request): Solving this issue requires implementing a new feature
+* [Kind/To-discuss](https://github.com/the-lambda-church/merlin/labels/Kind%2FTo-discuss): Discussion needed to converge on a solution; often aesthetic. See mailing list for discussion
+* [Status/0-More-info-needed](https://github.com/the-lambda-church/merlin/labels/Status%2F0-More-info-needed): More information is needed before this issue can be triaged
+* [Status/0-Triage](https://github.com/the-lambda-church/merlin/labels/Status%2F0-Triage): This issue needs triaging
+* [Status/1-Acknowledged](https://github.com/the-lambda-church/merlin/labels/Status%2F1-Acknowledged): This issue has been triaged and is being investigated
+* [Status/2-Regression](https://github.com/the-lambda-church/merlin/labels/Status%2F2-Regression): Known workaround to be applied and tested
+* [Status/3-Fixed-need-test](https://github.com/the-lambda-church/merlin/labels/Status%2F3-Fixed-need-test): This issue has been fixed and needs checking
+* [Status/4-Fixed](https://github.com/the-lambda-church/merlin/labels/Status%2F4-Fixed): This issue has been fixed!
+* [Status/5-Awaiting-feedback](https://github.com/the-lambda-church/merlin/labels/Status%2F5-Awaiting-feedback): This issue requires feedback on a previous fix
+
+### Roadmap
 
 We are using the [Project](https://github.com/the-lambda-church/merlin/projects/1) area as a scratchpad to note future work and 3 month roadmaps, by having a column assigned to each upcoming month in the quarter. It's easier to update than a normal list in the repo Wiki and you can quickly edit and move cards between columns. Currently there is a disparity between the roadmap and the actual issues - it will take some time working with it to see what works best.
+
+### Contribution
 
 Checking in with the Issue tracker regularly is key, and we have updated the [README](https://github.com/the-lambda-church/merlin/blob/master/README.md) to reflect the new management process to provide clarity, and to encourage others to contribute in specific ways to help the project. These changes align the desire to efficiently manage our shared repositories with the aim of encouraging and acknowledging contributions to the projects. We will further test and refine this process with other repositories that we manage and projects to see what works.
 
@@ -110,8 +118,9 @@ Checking in with the Issue tracker regularly is key, and we have updated the [RE
 After some research with different approaches we are experimenting with using a combination of GitHub Issues, Labels, Milestones and Projects to manage our open source project workflow management.
 
 ### Benefits
-* Collaborative: Use the @ function to directly involve others in the conversation. This is good for specific queries or for when you need to ping that person to engage with the task - they will receive a notification and can respond appropriately.
-* Potentially reduces the number of meetings you will need to have: We have been able to reduce the number of admin sync meetings we need to have as incremental updates on the Issues and the overview from the Projects area provides a good snapshot of what is happening currently and what is planned next. We have yet to see if it will do the same for other repositories...
+
+* Collaborative: Use the @ function to directly involve others in the conversation. This is good for specific queries or for when you need to ping that person to engage with the task - they will receive a notification and can respond appropriately.  
+* Potentially reduces the number of meetings you will need to have: We have been able to reduce the number of admin sync meetings we need to have as incremental updates on the Issues and the overview from the Projects area provides a good snapshot of what is happening currently and what is planned next. We have yet to see if it will do the same for other repositories...  
 * Works well with a distributed team: It is utilising a tool already in use in the daily life of our team, and is an effective alternative when you can't have a physical meeting or call.
 
 ### Some problems
