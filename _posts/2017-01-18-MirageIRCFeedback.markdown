@@ -26,7 +26,7 @@ It is a small sample size, so I do not wish to generalise the results to the who
 ### Possible future actions based on feedback
 
 * Continue with IRC for the fortnightly calls until a suitable open source alternative is available
-* Post the [agenda](https://github.com/mirage/mirage-www/wiki/Call-Agenda) online (wiki and mirage.io?) 2/3 days prior to call
+* Post the [agenda](https://github.com/mirage/mirage-www/wiki/Call-Agenda) online (wiki and mirage.io?) 2-3 days prior to call
 * More structured agenda - with additional background information for topics, and prioritisation of burning issues that require discussion/decision
 * Follow up other discussion items regularly on the [mailing list](https://lists.xenproject.org/cgi-bin/mailman/listinfo/mirageos-devel)
 * Call summaries alongside [IRC logs](http://canopy.mirage.io/irclogs)
