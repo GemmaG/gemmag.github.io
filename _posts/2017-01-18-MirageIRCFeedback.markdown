@@ -216,7 +216,7 @@ Respondents self-identified as the following:
 * Reddit: 1/14
 * A friend: 1/14
 
-### 3: Where do you find answers to your mirage questions?
+### 3: Where do you find answers to your MirageOS questions?
 
 The majority of responses included a combination of the following, so I've created a tally instead.
 
