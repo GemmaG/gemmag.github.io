@@ -1,4 +1,7 @@
-# MirageOS Fortnightly Call: Feedback
+---
+layout: post
+title: MirageOS Fortnightly IRC Call Feedback
+---
 
 As referenced in a [previous post](http://reynard.io/2016/11/01/MirageOSFeedback.html) I wanted to check in with [MirageOS](https://mirage.io/) community members to gauge current opinion about the fortnightly [IRC meetings](https://irclog.whitequark.org/mirage/2016-02-13), and to see if there were any positive changes we could make. The main focus of the questions was directed specifically at the meeting itself, and other more general MirageOS community questions that help gauge the sample and to see where respondents currently access MirageOS information.
 
