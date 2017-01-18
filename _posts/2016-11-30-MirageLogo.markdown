@@ -19,4 +19,4 @@ They could potentially be used as badges for builds passing CI, or for Mirage li
 <img src="/images/DraftMirageLogos/DraftMirageLogoOutlineSmall.png" alt="Small and outlined" width="200" />
 </p>
 
-Still a work in progress - let me know what you think! @gemmag / gg417@cl.cam.ac.uk
+Still a work in progress - let me know what you think! @gemmag
