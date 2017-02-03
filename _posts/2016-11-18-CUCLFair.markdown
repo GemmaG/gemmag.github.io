@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CUCL Recruitment Fair 2016
+tags: ocamllabs cucl community
 ---
 
 Cambridge Computer Lab runs a [Supporters Club](https://www.cl.cam.ac.uk/supporters-club/members.html) for a [group of companies](https://www.cl.cam.ac.uk/supporters-club/members.html), ranging from the very small to the large, which actively support teaching or research in the Computer Laboratory.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: International Summer School for Metaprogramming
+tags: metaprogramming ocamllabs
 ---
 
 This summer we hosted the first International Summer School for Metaprogramming at [Robinson College](http://www.robinson.cam.ac.uk/), Cambridge. The event was a huge success and it would not have been possible without the generous financial support from our industrial parters: [Facebook](https://code.facebook.com/projects/), [Microsoft](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/), [Oracle](https://www.oracle.com/uk/index.html) and [OCaml Labs](ocaml.io).
