@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mirage Logo Fun
+tags: ocamllabs mirageos community
 ---
 
 With the new MirageOS 3.0 release on the horizon I looked at some ideas for a new logo. It will be a shame to lose our well-loved llama but it's also a great time for a new shiny logo!

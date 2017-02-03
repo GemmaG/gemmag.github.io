@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ICFP 2016 roundup by OCaml Labs
+tags: ocamllabs icfp events
 ---
 
 [ICFP 2016](http://conf.researchr.org/home/icfp-2016) is over!

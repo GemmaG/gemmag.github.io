@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Don't bite the hand that feeds-back
+tags: ocamllabs mirage community
 ---
 
 **TL;DR**
