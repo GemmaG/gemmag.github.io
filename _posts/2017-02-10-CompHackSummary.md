@@ -7,7 +7,7 @@ tags: ocamllabs events community hackathon
 Thanks to everyone who joined us for a relaxed but productive evening of [OCaml compiler hacking](https://ocamllabs.github.io/compiler-hacking/) on Tuesday 7th February. We focussed on fixing bugs and tidying up documentation during this session, and we had a high proportion of people who are relatively new to OCaml getting stuck into the internals.
 
 <div>
-<img style="float:right" src="/images/FebCHPembroke.JPG" alt="Olivier, Maxime, David and Fred talk all things compiler" width="200" />
+<img style="float:right; -webkit-transform:rotate(90deg); transform:rotate(90deg);" src="/images/FebCHPembroke.JPG" alt="Olivier, Maxime, David and Fred talk all things compiler" width="200" />
 </div>
 
 ### Compiler Projects
