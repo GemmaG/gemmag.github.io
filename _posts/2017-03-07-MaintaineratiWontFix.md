@@ -11,7 +11,7 @@ It was totally awesome - and this is why.
 <p>
 <img src="/images/GHHQGem.jpg" alt="Stage 1" width="200" />
 <img src="/images/Octocat.jpg" alt="Stage 2" width="200" />
-<p>
+</p>
 
 ## Concept & Style
 
@@ -39,7 +39,7 @@ Disclaimer: Others may not have experienced #5 as strongly as me, but I hope the
 <p>
 <img src="/images/PostIts.jpg" alt="Stage 1" width="200" />
 <img src="/images/ViewFromTheContainer.jpg" alt="Stage 2" width="200" />
-<p>
+</p>
 
 Topics included:
 
@@ -92,4 +92,4 @@ We are all in the same boat, as demonstrated by the success of this event, and t
 
 <p>
 <img src="/images/ObviousCoffee.jpg" alt="Stage 1" width="200" />
-<p>
+</p>
