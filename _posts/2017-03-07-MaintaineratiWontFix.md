@@ -86,7 +86,7 @@ Some specific takeaways were:
   - something is better than nothing, and if it is expected of everyone then everyone is more likely to do it  
   - just do it    
 
-### Learn from our peers and lead by example
+### Learn from your peers and lead by example
 
 We are all in the same boat, as demonstrated by the success of this event, and the topics discussed at length and with great interest and passion. We can make the changes we would like to see, and we can start with ourselves!
 
