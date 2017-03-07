@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wontfix_Cabal by Maintainerati
+title: Wontfix Cabal by Maintainerati
 tags: ocamllabs events community github
 ---
 
