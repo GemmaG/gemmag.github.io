@@ -11,11 +11,11 @@ It was totally awesome - and this is why.
 <p>
 <img src="/images/GHHQGem.jpg" alt="Stage 1" width="200" />
 <img src="/images/Octocat.jpg" alt="Stage 2" width="200" />
-</p>
+<p>
 
 ## Concept & Style
 
-This event was in the style of an "[unconference](https://en.wikipedia.org/wiki/Unconference)" and was organised BY open source software maintainers FOR open source software maintainers. The event organiser [Jess Frazelle](https://twitter.com/jessfraz) explains the concept behind it as a place "where attendees could discuss topics candidly with their peers from other open source communities". You can read Jess' [blog post](https://opensource.googleblog.com/2017/03/by-maintainers-for-maintainers.html?m=1) for more of her insight into the event, where she also references the response to a previous [blog post](link) she published that appears to have unlocked the concept in her mind. It seemed to her that many maintainers were all coming up against the same issues, and they needed a space to vent - this is where Maintainerati and the Wonfix_Cabal were born.
+This event was in the style of an "[unconference](https://en.wikipedia.org/wiki/Unconference) and was organised BY open source software maintainers FOR open source software maintainers. The event organiser [Jess Frazelle](https://twitter.com/jessfraz) explains the concept behind it as a place "where attendees could discuss topics candidly with their peers from other open source communities". You can read Jess' [blog post](https://opensource.googleblog.com/2017/03/by-maintainers-for-maintainers.html?m=1) for more of her insight into the event, where she also references the response to a previous [blog post](link) she published that appears to have unlocked the concept in her mind. It seemed to her that many maintainers were all coming up against the same issues, and they needed a space to vent - this is where Maintainerati and the Wonfix_Cabal were born.
 
 The verb to ["vent"](https://en.oxforddictionaries.com/definition/vent) refers to "giving free expression to (a strong emotion)", and this is definitely applicable here. Everyone in the room had at least one burning issue they wanted to address, and the simple question "What would you like to discuss?" allowed the process to begin without censorship.
 
@@ -39,7 +39,7 @@ Disclaimer: Others may not have experienced #5 as strongly as me, but I hope the
 <p>
 <img src="/images/PostIts.jpg" alt="Stage 1" width="200" />
 <img src="/images/ViewFromTheContainer.jpg" alt="Stage 2" width="200" />
-</p>
+<p>
 
 Topics included:
 
@@ -83,13 +83,13 @@ Some specific takeaways were:
 
 * Documentation
 
-- something is better than nothing, and if it is expected of everyone then everyone is more likely to do it  
-- just do it
+  - something is better than nothing, and if it is expected of everyone then everyone is more likely to do it  
+  - just do it
 
-### Learn from your peers and lead by example
+### Learn from our peers and lead by example
 
 We are all in the same boat, as demonstrated by the success of this event, and the topics discussed at length and with great interest and passion. We can make the changes we would like to see, and we can start with ourselves!
 
 <p>
 <img src="/images/ObviousCoffee.jpg" alt="Stage 1" width="200" />
-</p>
+<p>
