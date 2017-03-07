@@ -29,7 +29,7 @@ The process went a little something like this:
 
 1: Suggest topics for discussion  
 2: Vote on topics you REALLY REALLY want to discuss  
-3: Join the focus group for one of topics and discuss!  
+3: Join the focus group for one of the topics and discuss!  
 4: Summarise points for the larger group  
 5: Feel a new sense of acceptance, understanding and justification - HOORAY!  
 6: And repeat!  
