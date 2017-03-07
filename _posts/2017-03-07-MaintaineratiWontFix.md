@@ -23,7 +23,7 @@ The event was a huge success, and I think this is mainly due to the style of eve
 
 ## Topics & Discussion
 
-Attendees were invited to add themselves to the [participants](https://github.com/maintainerati/events/blob/master/wontfix_cabal/participants.md) list in the preceding weeks, with the [schedule](https://github.com/maintainerati/events/blob/master/wontfix_cabal/schedule.md deliberately very low key, and led by direct contribution on the day.
+Attendees were invited to add themselves to the [participants](https://github.com/maintainerati/events/blob/master/wontfix_cabal/participants.md) list in the preceding weeks, with the [schedule](https://github.com/maintainerati/events/blob/master/wontfix_cabal/schedule.md) deliberately very low key, and led by direct contribution on the day.
 
 The process went a little something like this:
 
