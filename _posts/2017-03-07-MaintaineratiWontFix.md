@@ -74,12 +74,14 @@ Some specific takeaways were:
   - use a bot for some responses e.g. easy PR checks. This removes the emotive aspect and the possibility to take it personally  
   - highlight good/non-toxic behaviours    
 
+
 * Contribution - Ensure you respect contributors time
 
   - establish and maintain a list of easy but high impact/value projects and issues  
   - highlight and value non-technical contributions  
   - create a guide for contribution that clearly outlines the expected process, including ongoing maintenance  
   - get to know your members and their individual motivations  
+
 
 * Documentation
 
