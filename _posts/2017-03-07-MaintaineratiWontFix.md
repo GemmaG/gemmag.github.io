@@ -4,7 +4,7 @@ title: Wontfix_Cabal by Maintainerati
 tags: ocamllabs events community github
 ---
 
-Last month I was very lucky to attend the first [Wontfix_Cabal](https://github.com/maintainerati/events/tree/master/wontfix_cabal), organised by [Maintainerati](https://maintainerati.org/)and hosted at GitHub HQ in San Francisco.
+Last month I was very lucky to attend the first [Wontfix_Cabal](https://github.com/maintainerati/events/tree/master/wontfix_cabal), organised by [Maintainerati](https://maintainerati.org/) and hosted at GitHub HQ in San Francisco.
 
 It was totally awesome - and this is why.
 
@@ -27,12 +27,12 @@ Attendees were invited to add themselves to the [participants](https://github.co
 
 The process went a little something like this:
 
-1: Suggest topics for discussion
-2: Vote on topics you REALLY REALLY want to discuss
-3: Join the focus group for one of topics and discuss!
-4: Summarise points for the larger group
-5: Feel a new sense of acceptance, understanding and justification - HOORAY!
-6: And repeat!
+1: Suggest topics for discussion  
+2: Vote on topics you REALLY REALLY want to discuss  
+3: Join the focus group for one of topics and discuss!  
+4: Summarise points for the larger group  
+5: Feel a new sense of acceptance, understanding and justification - HOORAY!  
+6: And repeat!  
 
 Disclaimer: Others may not have experienced #5 as strongly as me, but I hope they did!
 
@@ -43,13 +43,13 @@ Disclaimer: Others may not have experienced #5 as strongly as me, but I hope the
 
 Topics included:
 
-* Metrics in OSS and community health
-* Ethics and work
-* Documentation
-* Onboarding/finding maintainers
-* Toxicity within communities
-* Saying no
-* Sole maintainers
+* Metrics in OSS and community health  
+* Ethics and work  
+* Documentation  
+* Onboarding/finding maintainers  
+* Toxicity within communities  
+* Saying no  
+* Sole maintainers  
 
 You can find [session summaries in the repo](https://github.com/maintainerati/events/tree/master/wontfix_cabal) for more details.
 
@@ -69,21 +69,21 @@ Some specific takeaways were:
 
 * Community behaviour
 
-  - negative personal statements should be explicitly unacceptable
-  - informal hierarchies rarely work as they can allow privileges to determine power, instead have a clear hierarchy and escalation policy
-  - use a bot for some responses e.g. easy PR checks. This removes the emotive aspect and the possibility to take it personally
-  - highlight good/non-toxic behaviours
+  - negative personal statements should be explicitly unacceptable  
+  - informal hierarchies rarely work as they can allow privileges to determine power, instead have a clear hierarchy and escalation policy  
+  - use a bot for some responses e.g. easy PR checks. This removes the emotive aspect and the possibility to take it personally  
+  - highlight good/non-toxic behaviours  
 
 * Contribution - Ensure you respect contributors time
 
-  - establish and maintain a list of easy but high impact/value projects and issues
-  - highlight and value non-technical contributions
-  - create a guide for contribution that clearly outlines the expected process, including ongoing maintenance
+  - establish and maintain a list of easy but high impact/value projects and issues  
+  - highlight and value non-technical contributions  
+  - create a guide for contribution that clearly outlines the expected process, including ongoing maintenance  
   - get to know your members and their individual motivations
 
 * Documentation
 
-- something is better than nothing, and if it is expected of everyone then everyone is more likely to do it
+- something is better than nothing, and if it is expected of everyone then everyone is more likely to do it  
 - just do it
 
 ### Learn from our peers and lead by example
