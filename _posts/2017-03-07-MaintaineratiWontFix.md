@@ -34,7 +34,11 @@ The process went a little something like this:
 
 Disclaimer: Others may not have experienced #5 as strongly as me, but I hope they did!
 
-<a href="/images/PostIts.jpg"><img src="/images/PostIts-thumb.png" alt="Stage 1" width="200" style="float:right; padding-left: 20px;" /></a>
+<p>
+<a href="/images/PostIts.jpg"><img src="/images/PostIts-thumb.png" alt="Stage 1" width="200" /></a>
+<a href="/images/ViewFromTheContainer.jpg"><img src="/images/ViewFromTheContainer-thumb.png" alt="Stage 2" width="200" /></a>
+</p>
+
 Topics included:
 
 * Metrics in OSS and community health  
@@ -51,7 +55,6 @@ There were many, many interesting and useful talking points of the day, and I've
 
 ### "Being a maintainer is like being a politician"
 
-<a href="/images/ViewFromTheContainer.jpg"><img src="/images/ViewFromTheContainer-thumb.png" alt="Stage 2" width="200" style="float:right; padding-left: 20px;" /></a>
 Someone (I can't recall who) offered this little gem, and I couldn't agree more. I'd also possibly add "like being a parent" in the sense that you can expect your community to behave in a way that is both modelled and accepted by its members.
 
 As a maintainer you will likely spend a lot of time engaging your diplomatic side - from dealing with questions such as "Is this project still maintained?" to interacting with disgruntled developers whose PR probably won't be accepted, or users with far-fetched feature requests.
