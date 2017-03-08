@@ -9,8 +9,8 @@ Last month I was very lucky to attend the first [Wontfix_Cabal](https://github.c
 It was totally awesome - and this is why.
 
 <p>
-<a href="/images/GHHQGem.jpg"><img src="/images/GHHQGem-thumb.png" alt="Stage 1" width="200" style="float:left; padding: 20px;" /></a>
-<a href="/images/Octocat.jpg"><img src="/images/Octocat-thumb.png" alt="Stage 2" width="200" style="float:right; padding: 20px;" /></a>
+<a href="/images/GHHQGem.jpg"><img src="/images/GHHQGem-thumb.png" alt="Stage 1" width="200" /></a>
+<a href="/images/Octocat.jpg"><img src="/images/Octocat-thumb.png" alt="Stage 2" width="200" /></a>
 </p>
 
 ## Concept & Style
