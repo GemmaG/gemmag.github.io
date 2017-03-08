@@ -36,7 +36,7 @@ The process went a little something like this:
 
 Disclaimer: Others may not have experienced #5 as strongly as me, but I hope they did!
 
-<p>
+<p style="vertical-align: text-top">
 <a href="/images/PostIts.jpg"><img src="/images/PostIts-thumb.png" alt="Stage 1" width="200" /></a>
 <a href="/images/ViewFromTheContainer.jpg"><img src="/images/ViewFromTheContainer-thumb.png" alt="Stage 2" width="200" /></a>
 </p>
