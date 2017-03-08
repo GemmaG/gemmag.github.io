@@ -9,8 +9,8 @@ Last month I was very lucky to attend the first [Wontfix_Cabal](https://github.c
 It was totally awesome - and this is why.
 
 <p>
-<a href="/images/GHHQGem.jpg"><img src="/images/GHHQGem-thumb.png" alt="Stage 1" width="300" /></a>
-<a href="/images/Octocat.jpg"><img src="/images/Octocat-thumb.png" alt="Stage 2" width="300" /></a>
+<a href="/images/GHHQGem.jpg"><img src="/images/GHHQGem-thumb.png" alt="Stage 1" width="200" /></a>
+<a href="/images/Octocat.jpg"><img src="/images/Octocat-thumb.png" alt="Stage 2" width="200" /></a>
 </p>
 
 ## Concept & Style
@@ -37,8 +37,8 @@ The process went a little something like this:
 Disclaimer: Others may not have experienced #5 as strongly as me, but I hope they did!
 
 <p>
-<img src="/images/PostIts.jpg" alt="Stage 1" width="200" />
-<img src="/images/ViewFromTheContainer.jpg" alt="Stage 2" width="200" />
+<a href="/images/PostIts.jpg"><img src="/images/PostIts-thumb.png" alt="Stage 1" width="200" /></a>
+<a href="/images/ViewFromTheContainer.jpg"><img src="/images/ViewFromTheContainer-thumb.png" alt="Stage 2" width="200" /></a>
 </p>
 
 Topics included:
@@ -91,5 +91,5 @@ Some specific takeaways were:
 We are all in the same boat, as demonstrated by the success of this event, and the topics discussed at length and with great interest and passion. We can make the changes we would like to see, and we can start with ourselves!
 
 <p>
-<img src="/images/ObviousCoffee.jpg" alt="Stage 1" width="200" />
+<a href="/images/ObviousCoffee.jpg"><img src="/images/ObviousCoffee-thumb.png" alt="Stage 1" width="200" /></a>
 </p>
