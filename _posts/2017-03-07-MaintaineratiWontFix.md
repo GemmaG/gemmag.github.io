@@ -4,6 +4,7 @@ title: Wontfix Cabal by Maintainerati
 tags: ocamllabs events community github
 ---
 
+<a href="/images/GHHQGem.jpg"><img src="/images/GHHQGem-thumb.png" alt="Stage 1" width="200" style="float:left; padding: 20px;" /></a>
 Last month I was very lucky to attend the first [Wontfix_Cabal](https://github.com/maintainerati/events/tree/master/wontfix_cabal), organised by [Maintainerati](https://maintainerati.org/) and hosted at GitHub HQ in San Francisco.
 
 It was totally awesome - and this is why.
@@ -11,7 +12,7 @@ It was totally awesome - and this is why.
 
 ## Concept & Style
 
-<a href="/images/GHHQGem.jpg"><img src="/images/GHHQGem-thumb.png" alt="Stage 1" width="200" style="float:right; padding-left: 20px; padding-bottom: 10px;" /></a>
+<a href="/images/Octocat.jpg"><img src="/images/Octocat-thumb.png" alt="Stage 2" width="200" style="float:right; padding: 20px;" /></a>
 This event was in the style of an "[unconference](https://en.wikipedia.org/wiki/Unconference) and was organised BY open source software maintainers FOR open source software maintainers. The event organiser [Jess Frazelle](https://twitter.com/jessfraz) explains the concept behind it as a place "where attendees could discuss topics candidly with their peers from other open source communities". You can read Jess' [blog post](https://opensource.googleblog.com/2017/03/by-maintainers-for-maintainers.html?m=1) for more of her insight into the event, where she also references the response to a previous [blog post](https://blog.jessfraz.com/post/the-art-of-closing/) she published that appears to have unlocked the concept in her mind. It seemed to her that many maintainers were all coming up against the same issues, and they needed a space to vent - this is where Maintainerati and the Wonfix_Cabal were born.
 
 The verb to ["vent"](https://en.oxforddictionaries.com/definition/vent) refers to "giving free expression to (a strong emotion)", and this is definitely applicable here. Everyone in the room had at least one burning issue they wanted to address, and the simple question "What would you like to discuss?" allowed the process to begin without censorship.
@@ -20,7 +21,6 @@ The event was a huge success, and I think this is mainly due to the style of eve
 
 ## Topics & Discussion
 
-<a href="/images/Octocat.jpg"><img src="/images/Octocat-thumb.png" alt="Stage 2" width="200" style="float:right; padding-left: 20px;" /></a>
 Attendees were invited to add themselves to the [participants](https://github.com/maintainerati/events/blob/master/wontfix_cabal/participants.md) list in the preceding weeks, with the [schedule](https://github.com/maintainerati/events/blob/master/wontfix_cabal/schedule.md) deliberately very low key, and led by direct contribution on the day.
 
 The process went a little something like this:
