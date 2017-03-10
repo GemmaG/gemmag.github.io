@@ -17,4 +17,5 @@ Huge thanks to [Indigo Clothing](http://www.indigoclothing.com/) who printed all
 <br />
 <img src="/images/GirlScarfTransparent.png" alt="Design 3" width="200" />
 <img src="/images/spacetime-png-proof.png" alt="OCaml 4.04" width="200" />
+<img src="/images/OCamlSpacetimeTransparent" alt="OCaml 4.04" width="200" />
 </p>
