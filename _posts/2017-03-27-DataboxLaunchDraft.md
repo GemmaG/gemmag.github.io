@@ -6,7 +6,7 @@ category: Events
 tags: mirage databox platform opensource events community outreach conference
 ---
 
-The team working on the [Databox Project](http://www.databoxproject.uk/) hosted their Cambridge open-source community launch on Friday 24th March at Darwin College, Cambridge.
+The team working on the [Databox Project](http://www.databoxproject.uk/) hosted their Cambridge open-source community launch on Friday 24th March at [Darwin College](https://www.darwin.cam.ac.uk/), Cambridge.
 
 The event served to introduce the motives behind Databox, the structure of the project and to gauge use cases within the community and potential application developers. The team presented the initial release of a working open source Databox platform, which can be run on any device capable of running Docker containers. This initial release includes basic data collection support through mobile sensing libraries and selected APIs, provides basic data flow policing and privacy policy enforcement, and supports installation and operation of simple personal data processing apps.
 
@@ -18,13 +18,15 @@ The event served to introduce the motives behind Databox, the structure of the p
 
 Photos courtesy of [Hamed Haddadi](https://twitter.com/realhamed).
 
-The morning session began with a formal introduction by [Hamed Haddadi](https://twitter.com/realhamed) into the research project itself, explaining the high-level goals of the project: "Can we do detailed, user-centric, contextual analytics at a scalable rate without privacy disasters and legal challenges?" [Richard Mortier](https://github.com/mor1) followed with a summary of the technical architecture of the Databox and described the driving motive as an open-source, personal networked system, NOT another data silo that acts as a honey pot - the focus being to move computation to where the data is, thus reducing the movement of data itself. [Tosh Brown](https://github.com/Toshbrown) and [Yousef Amar](https://github.com/yousefamar) then followed with (working!) demonstrations of the Databox SDK and UI, and development of drivers and applications at the container level.
+The morning session began with a formal introduction by [Hamed Haddadi](https://twitter.com/realhamed) into the research project itself, explaining the high-level goals of the project: "Can we do detailed, user-centric, contextual analytics at a scalable rate without privacy disasters and legal challenges?" [Richard Mortier](https://github.com/mor1) followed with a summary of the technical architecture of the Databox and described the driving motive as an open-source, personal networked system, **NOT** another data silo that acts as a honey pot - the focus being to move computation to where the data is, thus reducing the movement of data itself. [Tosh Brown](https://github.com/Toshbrown) and [Yousef Amar](https://github.com/yousefamar) then followed with (working!) demonstrations of the Databox SDK and UI, and development of drivers and applications at the container level.
 
 The afternoon session was driven by the attendees, who were all asked to propose applications for and uses of the Databox, with small focus groups facilitating this development.
 
 You can contribute to the open-source Databox prototype by visiting the [repository](https://github.com/me-box) and checking out the [code](https://github.com/me-box/databox) and [docs](https://github.com/me-box/documents).
 
 See my raw notes from the event below.
+
+Thank you to all those who attended, the Databox Project team, and to the staff at Darwin College.
 
 ----
 
