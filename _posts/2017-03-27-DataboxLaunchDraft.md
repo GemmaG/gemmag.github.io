@@ -10,7 +10,9 @@ The team working on the [Databox Project](http://www.databoxproject.uk/) hosted 
 
 The event served to introduce the motives behind Databox, the structure of the project and to gauge use cases within the community and potential application developers. The team presented the initial release of a working open source Databox platform, which can be run on any device capable of running Docker containers. This initial release includes basic data collection support through mobile sensing libraries and selected APIs, provides basic data flow policing and privacy policy enforcement, and supports installation and operation of simple personal data processing apps.
 
-{% twitter https://twitter.com/realhamed/status/845263234932363264 %}
+<p>
+<a href="/images/databox.jpg"
+</p>
 
 The morning session began with a formal introduction by [Hamed Haddadi](https://twitter.com/realhamed) into the research project itself, explaining the high-level goals of the project: "Can we do detailed, user-centric, contextual analytics at a scalable rate without privacy disasters and legal challenges?" [Richard Mortier](https://github.com/mor1) followed with a summary of the technical architecture of the Databox and described the driving motive as an open-source, personal networked system, NOT another data silo that acts as a honey pot - the focus being to move computation to where the data is, thus reducing the movement of data itself. [Tosh Brown](https://github.com/Toshbrown) and [Yousef Amar](https://github.com/yousefamar) then followed with (working!) demonstrations of the Databox SDK and UI, and development of drivers and applications at the container level.
 
