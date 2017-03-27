@@ -11,7 +11,7 @@ The team working on the [Databox Project](http://www.databoxproject.uk/) hosted 
 The event served to introduce the motives behind Databox, the structure of the project and to gauge use cases within the community and potential application developers. The team presented the initial release of a working open source Databox platform, which can be run on any device capable of running Docker containers. This initial release includes basic data collection support through mobile sensing libraries and selected APIs, provides basic data flow policing and privacy policy enforcement, and supports installation and operation of simple personal data processing apps.
 
 <p>
-<a href="/images/databox.jpg"
+<img src="/images/databox.jpg" alt="Stage 1" width="200" />
 </p>
 
 The morning session began with a formal introduction by [Hamed Haddadi](https://twitter.com/realhamed) into the research project itself, explaining the high-level goals of the project: "Can we do detailed, user-centric, contextual analytics at a scalable rate without privacy disasters and legal challenges?" [Richard Mortier](https://github.com/mor1) followed with a summary of the technical architecture of the Databox and described the driving motive as an open-source, personal networked system, NOT another data silo that acts as a honey pot - the focus being to move computation to where the data is, thus reducing the movement of data itself. [Tosh Brown](https://github.com/Toshbrown) and [Yousef Amar](https://github.com/yousefamar) then followed with (working!) demonstrations of the Databox SDK and UI, and development of drivers and applications at the container level.
@@ -65,7 +65,7 @@ Dynamic components that you may install to interact with services and data:
 The [SDK](https://sdk.iotdatabox.com/login) provides a user-friendly cloud environment for building Databox applications quickly, and finding approved applications to use on your own Databox - you simply require a GitHub login to access it. The graphical programming environment allows you drag in and connect nodes, view the function output, and debug if needed. There are other useful details such as built-in virtualisations that allow you to view your data as graphs, lists etc, and application manifests which include any resources your app needs and different levels of functionality to correspond with existing devices. Current applications include Hue lights, a mobile sensing driver and Twitter.
 
 <p>
-<a href="/images/DataboxSDK.png"
+<img src="/images/DataboxSDK.png" alt="Stage 1" width="200" />
 </p>
 
 ## Apps and Drivers
