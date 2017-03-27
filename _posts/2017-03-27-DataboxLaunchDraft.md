@@ -8,7 +8,7 @@ tags: mirage databox platform opensource events community outreach conference
 
 The team working on the [Databox Project](http://www.databoxproject.uk/) hosted their Cambridge open-source community launch on Friday 24th March at [Darwin College](https://www.darwin.cam.ac.uk/), Cambridge.
 
-The event served to introduce the motives behind Databox, the structure of the project and to gauge use cases within the community and potential application developers. The team presented the initial release of a working open source Databox platform, which can be run on any device capable of running Docker containers. This initial release includes basic data collection support through mobile sensing libraries and selected APIs, provides basic data flow policing and privacy policy enforcement, and supports installation and operation of simple personal data processing apps.
+The event served to introduce the motives behind Databox, the structure of the project and to gauge use cases within the community and potential application developers. The team presented the initial release of a working open source Databox platform, which includes basic data collection support through mobile sensing libraries and selected APIs, provides basic data flow policing and privacy policy enforcement, and supports installation and operation of simple personal data processing apps.
 
 <p>
 <img src="/images/databox.jpg" alt="Stage 1" width="200" />
