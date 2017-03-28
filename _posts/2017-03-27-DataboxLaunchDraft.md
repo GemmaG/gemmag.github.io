@@ -24,13 +24,21 @@ The morning session began with a formal introduction by [Hamed Haddadi](https://
 
 The afternoon session was driven by the attendees, who were all asked to propose applications for and uses of the Databox, with small focus groups facilitating this development.
 
-**Contribute to the open-source software Databox project**
-
-You can contribute to the open-source Databox prototype by visiting the [repository](https://github.com/me-box) and checking out the [code](https://github.com/me-box/databox) and [docs](https://github.com/me-box/documents). You can also view the [application](https://github.com/me-box/databox-app-template-node) and [driver](https://github.com/me-box/databox-driver-template-node) templates to get started.
-
 See my raw notes from the event below.
 
 Thank you to all those who attended, the Databox Project team, and to the staff at Darwin College.
+
+
+**Contribute to the open-source software Databox project**
+
+You can contribute to the open-source Databox prototype by visiting the [repository](https://github.com/me-box) and checking out the:  
+
+- [code](https://github.com/me-box/databox)
+- [docs](https://github.com/me-box/documents)
+- [application](https://github.com/me-box/databox-app-template-node) templates
+- [driver](https://github.com/me-box/databox-driver-template-node) templates
+
+Join the community discussion in the [Databox Discourse](https://forum.databoxproject.uk/) forum.
 
 ----
 
