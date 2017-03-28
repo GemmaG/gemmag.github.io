@@ -26,9 +26,7 @@ The afternoon session was driven by the attendees, who were all asked to propose
 
 **Contribute to the open-source software Databox project**
 
-You can contribute to the open-source Databox prototype by visiting the [repository](https://github.com/me-box) and checking out the [code](https://github.com/me-box/databox) and [docs](https://github.com/me-box/documents).
-
-View [application](https://github.com/me-box/databox-app-template-node) and [driver](https://github.com/me-box/databox-driver-template-node) templates in the GitHub repository to get started.
+You can contribute to the open-source Databox prototype by visiting the [repository](https://github.com/me-box) and checking out the [code](https://github.com/me-box/databox) and [docs](https://github.com/me-box/documents). You can also view the [application](https://github.com/me-box/databox-app-template-node) and [driver](https://github.com/me-box/databox-driver-template-node) templates to get started.
 
 See my raw notes from the event below.
 
