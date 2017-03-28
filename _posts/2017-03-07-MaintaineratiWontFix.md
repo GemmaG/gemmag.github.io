@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wontfix Cabal by Maintainerati
-tags: ocamllabs events community github
+tags: ocamllabs events community github opensource outreach
 ---
 
 Last month I was very lucky to attend the first [Wontfix_Cabal](https://github.com/maintainerati/events/tree/master/wontfix_cabal), organised by [Maintainerati](https://maintainerati.org/) and hosted at GitHub HQ in San Francisco.
