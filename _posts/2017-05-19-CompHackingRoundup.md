@@ -8,6 +8,10 @@ Thanks to everyone who joined us for OCaml Compiler Hacking in the (incredibly w
 
 Prior to the event, we attempted a temporary update of the ["Things to Work On"](https://github.com/ocamllabs/compiler-hacking/wiki/Things-to-work-on) wiki page, and added some projects needing attention (thank you to Mark Shinwell, David Allsopp and Anil Madhavapeddy). We will go through the list in more detail this month and update the remaining items. If you have any suggestions for compiler projects, please join the discussion on the [mailing list](http://lists.ocaml.org/listinfo/cam-compiler-hacking), or in the [OCaml Discourse Forum](https://discuss.ocaml.org/t/ocaml-compiler-hacking-event/140).
 
+<p>
+<img src="/images/CompHackMay17.jpg" alt="Stage 1" width="200" />
+</p>
+
 ### Newcomers
 
 Christian Lindig brought some of his team from Citrix to discuss OCaml and Opam with the compiler developers from OCaml Labs and Jane Street. XenServer is Citrix's virtualisation platform based on Xen and CentOS. Christian described how their internal set-up at Citrix means they still need to rely on RPM in some areas, but how switching some projects over to Opam has improved their workflow, and overall has been a huge success. The toolstack layer of the XenServer platform is implemented in OCaml, with code available as Opam packages in their [own Opam repository](https://github.com/xapi-project/xs-opam). Other code is available as RPM packages which are released as open source, but are not part of the repository.
